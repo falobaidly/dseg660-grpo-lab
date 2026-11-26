@@ -1,0 +1,7619 @@
+{
+  "env": {
+    "python": "3.13.16",
+    "packages": {
+      "unsloth": "2026.11.12",
+      "unsloth_zoo": "2026.11.12",
+      "torch": "2.14.1+cu130",
+      "transformers": "5.17.0",
+      "trl": "1.15.0",
+      "peft": "0.21.2",
+      "bitsandbytes": "0.50.2",
+      "accelerate": "1.15.0",
+      "datasets": "4.8.5"
+    },
+    "gpu": "Tesla T4",
+    "gpu_total_gb": 14.56,
+    "cuda": "13.0",
+    "model": "Qwen/Qwen3-1.7B",
+    "model_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+    "seed": 3407
+  },
+  "temperature": 1.0,
+  "top_p": 1.0,
+  "top_k": 0,
+  "max_new_tokens": 3,
+  "seqs_per_generate_call": 64,
+  "settings": {
+    "4": {
+      "group_size": 4,
+      "groups": 256,
+      "answers": 1024,
+      "scorable": 549,
+      "correct": 342,
+      "mixed_groups": 43,
+      "mixed_pct": 16.796875,
+      "all_correct_groups": 63,
+      "all_zero_groups": 150,
+      "sampling_seconds": 17.403763378999997,
+      "mixed_per_min": 148.24379898850614,
+      "answers_in_mixed_groups_per_min": 592.9751959540246,
+      "cases_with_any_mixed_group": 28,
+      "group_records": [
+        {
+          "id": "en_16313_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "Based on the",
+            "The most likely",
+            "Given the clinical",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18976_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "A. Elder",
+            "A. Elder",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19832_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "Given the clinical",
+            "The most likely",
+            "**B."
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4858_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3669_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. By",
+            "A. By",
+            "A. By",
+            "A. By"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11908_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "**C."
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_3421_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_5327_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15843_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. Pe",
+            "A. Pe",
+            "A. Pe",
+            "A. Pe"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8492_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4190_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_987_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14471_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_12045_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Extras",
+            "C. Extras",
+            "C. Extras",
+            "C. Extras"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15119_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18698_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. V",
+            "A. V",
+            "A. V",
+            "A. V"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2836_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. Parkinson",
+            "A. Parkinson",
+            "The most likely",
+            "B. Parkinson"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2750_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "A. Alcohol",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14734_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Photos",
+            "The clinical findings",
+            "The clinical features",
+            "The clinical findings"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_122_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8232_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "Based on the",
+            "B. Eh",
+            "B. Eh",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22595_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Central",
+            "A. Central",
+            "A. Central",
+            "A. Central"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_6377_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3666_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. Ju",
+            "The most likely",
+            "The most likely",
+            "A. Ju"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14135_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15250_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_721_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Pol",
+            "B. Pol",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1985_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "**C.",
+            "The most likely",
+            "**C.",
+            "**B."
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15187_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_13698_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_12867_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12346_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C. Dys",
+            "**C.",
+            "Based on the"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10735_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Threat",
+            "B. Threat",
+            "B. Threat",
+            "B. Threat"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_11960_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. Ch",
+            "A. Ch",
+            "A. Ch",
+            "A. Ch"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1725_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4525_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14083_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Mand",
+            "B. Mand",
+            "**B.",
+            "B. Mand"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17298_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "B. Elder"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13169_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "A. Per",
+            "A. Per",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_21039_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "C. Sch",
+            "C. Sch",
+            "C. Sch",
+            "C. Sch"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_268_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15696_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10280_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10367_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11735_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14313_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2761_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. An",
+            "C. An",
+            "The most likely",
+            "C. An"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_6152_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. C",
+            "B. C",
+            "B. C",
+            "B. C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5427_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "B. Cong",
+            "B. Cong"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_23580_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. U",
+            "The most likely",
+            "The most likely",
+            "A. U"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17617_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "A. Ch",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15464_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_905_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1386_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C\n\n**",
+            "C",
+            "C. Pediatric",
+            "C"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_8136_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Autos",
+            "The most likely",
+            "A. Autos",
+            "A. Autos"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3743_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2040_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Thor",
+            "B. Thor",
+            "B. Thor",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22710_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1930_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "Based on the",
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14362_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5157_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Irr",
+            "C. Irr",
+            "C. Irr",
+            "C. Irr"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10691_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4503_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12036_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C\n\n**",
+            "C\n\n**",
+            "C",
+            "C"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10111_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. L",
+            "A. L",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13283_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1943_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "B. Prem",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14108_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Angular",
+            "The most likely",
+            "C. Angular",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1523_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "Based on the",
+            "Based on the",
+            "B. Ren",
+            "B. Ren"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11113_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Chlor",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4941_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_13627_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "**B.",
+            "B. Primary",
+            "**B.",
+            "**B."
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14170_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_9741_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "Given the clinical",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1037_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1391_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_21787_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17420_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Neon",
+            "B. Neon",
+            "B. Neon",
+            "Based on the"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4840_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Chronic",
+            "B. Chronic",
+            "**B.",
+            "B. Chronic"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3070_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Chronic",
+            "The most likely",
+            "**C.",
+            "C. Chronic"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_7641_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C. Gran",
+            "C. Gran",
+            "C. Gran"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_9779_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14809_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. V",
+            "The most likely",
+            "The most likely",
+            "A. V"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8413_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10625_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_2187_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5583_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19535_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14693_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_20302_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C. Coal",
+            "C. Coal",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18760_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "B. Pediatric",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22822_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Given the clinical"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13422_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8463_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Oral",
+            "C. Oral",
+            "C. Oral",
+            "C. Oral"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_814_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Facial",
+            "A. Facial",
+            "A. Facial",
+            "A. Facial"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12083_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17976_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22315_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "A. Elect",
+            "The clinical findings",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22952_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3414_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. G",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_7269_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18835_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "A. Vul",
+            "A. Vul",
+            "A. Vul"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2297_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22657_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10890_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Heat",
+            "The most likely",
+            "The most likely",
+            "B. Heat"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_21134_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C",
+            "C",
+            "C",
+            "C"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3385_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. In",
+            "C. In",
+            "C. In",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17696_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_6048_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_123_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Post",
+            "B. Post",
+            "B. Post",
+            "B. Post"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_8178_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_16210_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19980_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1777_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. G",
+            "B. G",
+            "**B.",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1206_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. Ac",
+            "B. Ac",
+            "B. Ac",
+            "B. Ac"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15886_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_7235_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10217_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1544_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4270_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Cong",
+            "C. Cong",
+            "C. Cong",
+            "C. Cong"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8330_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Tub",
+            "A. Tub",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10421_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_363_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "C. Ac"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_16575_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4112_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18592_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10043_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13981_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_16313_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18976_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Elder",
+            "A. Elder",
+            "A. Elder",
+            "A. Elder"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_19832_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "Considering the clinical",
+            "**B.",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4858_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3669_3",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. By",
+            "A. By",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11908_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "**C."
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_3421_3",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "A\n\n**",
+            "A. Sp"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5327_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15843_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "A. Pe",
+            "A. Pe",
+            "A. Pe"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8492_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4190_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The clinical findings",
+            "**B.",
+            "Based on the",
+            "B. Ant"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_987_4",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14471_3",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_12045_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Extras",
+            "C. Extras",
+            "C. Extras",
+            "C. Extras"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15119_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "A. Gly",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18698_3",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. V",
+            "A. V",
+            "A. V",
+            "A. V"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2836_4",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "A. Parkinson",
+            "A. Parkinson",
+            "A. Parkinson"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_2750_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "C. C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14734_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "Based on the",
+            "A. Photos",
+            "The clinical findings",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_122_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8232_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Eh",
+            "B. Eh",
+            "B. Eh",
+            "B. Eh"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_22595_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Central",
+            "A. Central",
+            "A. Central",
+            "A. Central"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_6377_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3666_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14135_3",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15250_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_721_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Pol",
+            "B. Pol",
+            "B. Pol",
+            "B. Pol"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_1985_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "**B.",
+            "**B.",
+            "**B.",
+            "**B."
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15187_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_13698_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_12867_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12346_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Dys",
+            "Based on the",
+            "C. Dys",
+            "**C."
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10735_4",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Threat",
+            "B. Threat",
+            "**B.",
+            "B. Threat"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_11960_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "A. Ch",
+            "A. Ch",
+            "A. Ch",
+            "A. Ch"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1725_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4525_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "Given the clinical",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14083_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "**B.",
+            "B. Mand",
+            "**B.",
+            "**B."
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17298_3",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13169_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Per",
+            "A. Per",
+            "A. Per",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_21039_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "C. Sch",
+            "C. Sch",
+            "C. Sch",
+            "C. Sch"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_268_4",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15696_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10280_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10367_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11735_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14313_4",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2761_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C. An",
+            "C. An",
+            "C. An"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_6152_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The clinical findings",
+            "B. C",
+            "B. C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5427_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Cong",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_23580_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. U",
+            "A. U",
+            "A. U",
+            "A. U"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17617_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "A. Ch",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15464_4",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_905_3",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1386_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C\n\n**",
+            "C",
+            "C. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_8136_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "B. F"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_3743_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2040_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Thor",
+            "The most likely",
+            "B. Thor",
+            "B. Thor"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_22710_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1930_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "Given the clinical",
+            "Based on the",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14362_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5157_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "C. Irr",
+            "C. Irr",
+            "C. Irr"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10691_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4503_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12036_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C\n\n**",
+            "C\n\n**",
+            "C",
+            "C\n\n**"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10111_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13283_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "C. V",
+            "C",
+            "C",
+            "C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1943_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14108_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1523_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "B. Ren",
+            "B. Ren",
+            "Based on the",
+            "B. Ren"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11113_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "Based on the",
+            "Based on the",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4941_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_13627_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "**B.",
+            "B. Primary",
+            "B. Primary",
+            "B. Primary"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14170_4",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_9741_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1037_3",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1391_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_21787_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17420_3",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "B. Neon",
+            "The clinical findings",
+            "B. Neon"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4840_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3070_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Chronic",
+            "Based on the",
+            "The most likely",
+            "C. Chronic"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_7641_3",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_9779_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14809_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8413_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10625_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_2187_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5583_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19535_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14693_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_20302_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Coal",
+            "C. Coal",
+            "C. Coal",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18760_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_22822_4",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Given the clinical"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13422_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. Derm",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8463_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Oral",
+            "C. Oral",
+            "C. Oral",
+            "C. Oral"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_814_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "A. Facial",
+            "A. Facial",
+            "A. Facial",
+            "A\n\n**"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12083_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17976_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22315_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "Given the clinical",
+            "The clinical findings",
+            "The clinical findings",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22952_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3414_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_7269_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18835_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "A. Vul",
+            "A. Vul",
+            "A. Vul"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2297_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. C",
+            "A. C",
+            "A. C",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22657_1",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10890_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "B. Heat",
+            "B. Heat",
+            "B. Heat"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_21134_5",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. Iron",
+            "C",
+            "C. Iron",
+            "C"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3385_2",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "C. In",
+            "C. In",
+            "The most likely",
+            "C. In"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17696_4",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The clinical findings",
+            "The clinical findings",
+            "Given the clinical"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_6048_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_123_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Post",
+            "B. Post",
+            "B. Post",
+            "B. Post"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_8178_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Pediatric",
+            "The most likely",
+            "The most likely",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_16210_2",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19980_3",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "B. Pediatric",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1777_5",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "B. G",
+            "The clinical findings",
+            "The most likely",
+            "B. G"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1206_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "B. Ac",
+            "B. Ac",
+            "B. Ac",
+            "B. Ac"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15886_1",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_7235_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10217_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1544_3",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4270_2",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "C. Cong",
+            "C. Cong",
+            "C. Cong",
+            "C. Cong"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8330_4",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. Tub"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10421_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_363_5",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "C. Ac",
+            "The most likely",
+            "Based on the",
+            "C. Ac"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_16575_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4112_1",
+          "rep": 1,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18592_4",
+          "rep": 1,
+          "ref": "B",
+          "completions": [
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10043_4",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13981_3",
+          "rep": 1,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "scorable_rate": 0.5361328125
+    },
+    "8": {
+      "group_size": 8,
+      "groups": 128,
+      "answers": 1024,
+      "scorable": 558,
+      "correct": 351,
+      "mixed_groups": 28,
+      "mixed_pct": 21.875,
+      "all_correct_groups": 29,
+      "all_zero_groups": 71,
+      "sampling_seconds": 17.467640834000008,
+      "mixed_per_min": 96.17784198596256,
+      "answers_in_mixed_groups_per_min": 769.4227358877005,
+      "cases_with_any_mixed_group": 28,
+      "group_records": [
+        {
+          "id": "en_16313_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "Based on the",
+            "The most likely",
+            "Given the clinical",
+            "The most likely",
+            "The clinical findings",
+            "Given the clinical",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18976_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Elder",
+            "A. Elder",
+            "A. Elder",
+            "A. Elder",
+            "A. Elder",
+            "The most likely",
+            "A. Elder",
+            "A. Elder"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_19832_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "**B.",
+            "**B.",
+            "The most likely",
+            "**B.",
+            "**B."
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4858_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My",
+            "B. My"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3669_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. By",
+            "A. By",
+            "A. By",
+            "A. By",
+            "A. By",
+            "A. By",
+            "A. By",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11908_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "C. U",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_3421_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. Sp",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5327_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G",
+            "A. G"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15843_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. Pe",
+            "A. Pe",
+            "The most likely",
+            "A. Pe",
+            "A. Pe",
+            "A. Pe",
+            "A. Pe",
+            "A. Pe"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8492_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4190_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "**B.",
+            "B. Ant",
+            "**B.",
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings",
+            "B. Ant",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_987_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood",
+            "B. Childhood"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14471_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys",
+            "C. Dys"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_12045_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Extras",
+            "C. Extras",
+            "The clinical findings",
+            "C. Extras",
+            "C. Extras",
+            "C. Extras",
+            "C. Extras",
+            "C. Extras"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15119_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. Gly",
+            "A. Gly",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18698_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. V",
+            "The most likely",
+            "A. V",
+            "A. V",
+            "The most likely",
+            "A. V",
+            "A. V",
+            "A. V"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2836_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Parkinson",
+            "A. Parkinson",
+            "A. Parkinson",
+            "B. Parkinson",
+            "A. Parkinson",
+            "A. Parkinson",
+            "A. Parkinson",
+            "A. Parkinson"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_2750_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. Alcohol",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14734_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "**A.",
+            "The most likely",
+            "The clinical findings",
+            "A. Photos"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_122_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8232_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "Based on the",
+            "B. Eh",
+            "B. Eh",
+            "B. Eh",
+            "B. Eh",
+            "B. Eh",
+            "B. Eh",
+            "B. Eh"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_22595_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "**A**",
+            "A. Central",
+            "A. Central",
+            "A. Central",
+            "A. Central",
+            "A. Central",
+            "**A**",
+            "A. Central"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_6377_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong",
+            "A. Cong"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3666_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. Ju",
+            "The most likely",
+            "The most likely",
+            "A. Ju"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14135_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "Based on the",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15250_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_721_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "B. Pol",
+            "B. Pol",
+            "B. Pol",
+            "B. Pol",
+            "B. Pol",
+            "B. Pol"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_1985_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. Rec",
+            "**B.",
+            "**B.",
+            "**C.",
+            "The most likely",
+            "The most likely",
+            "**C**",
+            "**C."
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15187_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_13698_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_12867_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup",
+            "C. Sup"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12346_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "**C.",
+            "C. Dys",
+            "**C.",
+            "**A**",
+            "C. Dys",
+            "C. Dys",
+            "The most likely",
+            "C. Dys"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10735_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Threat",
+            "B. Threat",
+            "B. Threat",
+            "B. Threat",
+            "B. Threat",
+            "B. Threat",
+            "B. Threat",
+            "B. Threat"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_11960_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "A. Ch",
+            "The most likely",
+            "A. Ch",
+            "A. Ch",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1725_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat",
+            "A. Heat"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4525_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14083_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "**B.",
+            "B. Mand",
+            "**B.",
+            "B. Mand",
+            "B. Mand",
+            "**B.",
+            "**B.",
+            "**B."
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17298_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "**C**",
+            "The clinical findings",
+            "The most likely",
+            "B. Elder",
+            "The most likely",
+            "B. Elder",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13169_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Per",
+            "A. Per",
+            "A. Per",
+            "A. Per",
+            "**A.",
+            "The most likely",
+            "A. Per",
+            "A. Per"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_21039_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "C. Sch",
+            "C. Sch",
+            "**C.",
+            "C. Sch",
+            "C. Sch",
+            "C. Sch",
+            "C. Sch",
+            "C. Sch"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_268_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_15696_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "**B.",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10280_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D",
+            "B. D"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10367_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11735_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14313_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2761_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C. An",
+            "C. An",
+            "The most likely",
+            "C. An",
+            "C. An",
+            "The most likely",
+            "C. An"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_6152_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. C",
+            "B. C",
+            "B. C",
+            "**B.",
+            "B. C",
+            "The most likely",
+            "B. C",
+            "B. C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5427_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "Based on the",
+            "Based on the",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "Based on the",
+            "Based on the",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_23580_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. U",
+            "A. U",
+            "The most likely",
+            "The most likely",
+            "A. U",
+            "A. U",
+            "A. U",
+            "A. U"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_17617_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. Ch",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15464_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget",
+            "A. Veget"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_905_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Internal",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "C. Internal",
+            "C. Internal"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1386_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C",
+            "C\n\n**",
+            "The most likely",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C. Pediatric",
+            "C"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_8136_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Autos",
+            "The most likely",
+            "Given the clinical",
+            "A. Autos",
+            "B. F",
+            "The most likely",
+            "A. Autos",
+            "A. Autos"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3743_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2040_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Thor",
+            "The most likely",
+            "B. Thor",
+            "The most likely",
+            "B. Thor",
+            "B. Thor",
+            "B. Thor",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22710_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1930_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The clinical findings",
+            "Based on the",
+            "The clinical findings",
+            "A. Primary",
+            "Based on the",
+            "The clinical findings",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14362_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5157_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Irr",
+            "C. Irr",
+            "C. Irr",
+            "C",
+            "C. Irr",
+            "C. Irr",
+            "C",
+            "C. Irr"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10691_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4503_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12036_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C\n\n**",
+            "C. Meg",
+            "C\n\n**",
+            "C\n\n**",
+            "C\n\n**",
+            "C\n\n**",
+            "C\n\n**",
+            "C"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10111_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "A. L",
+            "The most likely",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13283_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C",
+            "C. V",
+            "C. V",
+            "C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1943_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "**B."
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14108_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Angular",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1523_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Ren",
+            "B. Ren",
+            "B. Ren",
+            "B. Ren",
+            "B. Ren",
+            "B. Ren",
+            "B. Ren",
+            "B. Ren"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_11113_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Chlor",
+            "C. Chlor",
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4941_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_13627_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Primary",
+            "B. Primary",
+            "**B.",
+            "**B.",
+            "**B.",
+            "**B.",
+            "B. Primary",
+            "**B."
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_14170_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_9741_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1037_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1391_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_21787_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17420_3",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Neon",
+            "B. Neon",
+            "B. Neon",
+            "B. Neon",
+            "B. Neon",
+            "B. Neon",
+            "B. Neon",
+            "B. Neon"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_4840_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic",
+            "B. Chronic"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3070_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "C. Chronic",
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "C. Chronic",
+            "C. Chronic"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_7641_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "**C.",
+            "C. Gran",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_9779_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14809_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "A. V",
+            "The most likely",
+            "A. V",
+            "A. V",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8413_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian",
+            "C. Brazilian"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10625_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C. Alcohol",
+            "C\n\n**"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_2187_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_5583_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L",
+            "A. L"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19535_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_14693_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose",
+            "C. Rose"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_20302_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Coal",
+            "C. Coal",
+            "C. Coal",
+            "C. Coal",
+            "C. Coal",
+            "C. Coal",
+            "C. Coal",
+            "C. Coal"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_18760_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_22822_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13422_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. Derm",
+            "A. Derm",
+            "A. Derm",
+            "The most likely",
+            "A. Derm",
+            "The most likely",
+            "A. Derm",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8463_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. Oral",
+            "C. Oral",
+            "C. Oral",
+            "C. Oral",
+            "C. Oral",
+            "C\n\n**",
+            "C. Oral",
+            "C. Oral"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_814_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Facial",
+            "A\n\n**",
+            "A. Facial",
+            "A. Facial",
+            "A. Facial",
+            "A. Facial",
+            "A. Facial",
+            "A. Facial"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_12083_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The clinical findings",
+            "The clinical findings",
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The given clinical"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17976_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "B. Nut",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22315_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The given clinical",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22952_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N",
+            "C. N"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3414_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_7269_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18835_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. Vul",
+            "A. Vul",
+            "A. Vul",
+            "A. Vul",
+            "A. Vul",
+            "The most likely",
+            "The most likely",
+            "A. Vul"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_2297_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "A. C",
+            "A. C"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_22657_1",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10890_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "B. Heat",
+            "The most likely",
+            "B. Heat",
+            "B. Heat",
+            "B. Heat",
+            "B. Heat",
+            "B. Heat"
+          ],
+          "rewards": [
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_21134_5",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C",
+            "C",
+            "C",
+            "C\n\n**",
+            "C\n\n**",
+            "C",
+            "C",
+            "C"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_3385_2",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "C. In",
+            "C. In",
+            "The most likely",
+            "C. In",
+            "C. In",
+            "C. In",
+            "C. In",
+            "Based on the"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_17696_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "Given the clinical"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_6048_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards",
+            "A. Edwards"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_123_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Post",
+            "B. Post",
+            "B. Post",
+            "B. Post",
+            "B. Post",
+            "B, C",
+            "B. Post",
+            "B. Post"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_8178_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "B. Pediatric",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_16210_2",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_19980_3",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Ant",
+            "The most likely",
+            "The most likely",
+            "Based on the",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1777_5",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. G",
+            "B. G",
+            "The most likely",
+            "The most likely",
+            "B. G",
+            "The most likely",
+            "B. G",
+            "B. G"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1206_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "B. Ac",
+            "B. Ac",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "B. Ac",
+            "B. Ac",
+            "B. Ac"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_15886_1",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O",
+            "A. O"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_7235_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10217_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The clinical findings",
+            "The clinical findings",
+            "The clinical findings",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_1544_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric",
+            "B. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4270_2",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "C. Cong",
+            "C. Cong",
+            "C. Cong",
+            "C. Cong",
+            "**C**",
+            "C. Cong",
+            "C. Cong",
+            "C. Cong"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_8330_4",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "A. Tub",
+            "A. Tub",
+            "A. Tub",
+            "A. Tub",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_10421_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric",
+            "A. Pediatric"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_363_5",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "C. Ac",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_16575_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The clinical findings"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_4112_1",
+          "rep": 0,
+          "ref": "A",
+          "completions": [
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_18592_4",
+          "rep": 0,
+          "ref": "B",
+          "completions": [
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar",
+            "B. Nar"
+          ],
+          "rewards": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "id": "en_10043_4",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late",
+            "B. Late"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "id": "en_13981_3",
+          "rep": 0,
+          "ref": "C",
+          "completions": [
+            "The clinical findings",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely",
+            "The most likely"
+          ],
+          "rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "scorable_rate": 0.544921875
+    }
+  },
+  "recommended_group_size": 8,
+  "rule": "max answers-with-nonzero-advantage per sampling minute"
+}

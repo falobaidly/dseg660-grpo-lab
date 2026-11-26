@@ -1,0 +1,3876 @@
+{
+  "n": 240,
+  "base": {
+    "scorable": 124,
+    "correct": 86
+  },
+  "adapter": {
+    "scorable": 239,
+    "correct": 137
+  },
+  "incorrect_to_correct": 57,
+  "correct_to_incorrect": 6,
+  "changed_answer": 228,
+  "env": {
+    "python": "3.13.16",
+    "packages": {
+      "unsloth": "2026.11.12",
+      "unsloth_zoo": "2026.11.12",
+      "torch": "2.14.1+cu130",
+      "transformers": "5.17.0",
+      "trl": "1.15.0",
+      "peft": "0.21.2",
+      "bitsandbytes": "0.50.2",
+      "accelerate": "1.15.0",
+      "datasets": "4.8.5"
+    },
+    "gpu": "Tesla T4",
+    "gpu_total_gb": 14.56,
+    "cuda": "13.0",
+    "model": "Qwen/Qwen3-1.7B",
+    "model_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+    "seed": 3407
+  },
+  "rows": [
+    {
+      "id": "en_8793_5",
+      "ref": "C",
+      "findings": "- Muscle atrophy\n- Slow growth\n- Joint pain\n- Local swelling\n- Reduced mobility of nearby joint\n- Slight fever\n- Weight loss",
+      "options": [
+        "Localized Scleroderma",
+        "Pleomorphic Lipoma",
+        "Adamantinoma of the Long Bones"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12272_1",
+      "ref": "C",
+      "findings": "- Cough\n- Headache\n- Nasal congestion\n- Runny nose",
+      "options": [
+        "Nasal Disease",
+        "Deficiency-cold cough",
+        "Sinobronchial Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6748_1",
+      "ref": "C",
+      "findings": "- Itching in the genital area\n- Mild redness\n- Occasional scratching\n- Discomfort in sitting",
+      "options": [
+        "Perianal Eczema",
+        "Lichen Sclerosus",
+        "Pediculosis Pubis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14863_3",
+      "ref": "A",
+      "findings": "- Abdominal pain\n- Diarrhea\n- Cachexia\n- Anemia",
+      "options": [
+        "Duodenal Carcinoid",
+        "Primary Retroperitoneal Tumors",
+        "Peritoneal Mesothelioma"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_6010_5",
+      "ref": "A",
+      "findings": "- Jaundice\n- Abdominal pain\n- Fever\n- Shock\n- Child\n- Abdominal distension\n- Peritonitis",
+      "options": [
+        "Congenital Choledochal Cyst in Children",
+        "Acute Perforation of Peptic Ulcer",
+        "Acute Biliary Pancreatitis"
+      ],
+      "base": "C. Ac",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_16656_5",
+      "ref": "B",
+      "findings": "- Irregular erythema\n- Fever\n- Sore throat\n- Diarrhea\n- Child\n- Headache\n- Abdominal pain\n- Fatigue",
+      "options": [
+        "Lymphatic Filariasis",
+        "Erythema Multiforme in Children",
+        "Influenza A (H1N1) (Swine Flu)"
+      ],
+      "base": "Based on the",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**C**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_16910_4",
+      "ref": "A",
+      "findings": "- Restlessness\n- Impulsive destructive behavior\n- Disorganized movements\n- Speaking in monosyllables",
+      "options": [
+        "Acute Stress Reaction",
+        "Attention Deficit Disorder",
+        "Childhood Emotional Disorders"
+      ],
+      "base": "B. Attention",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12279_4",
+      "ref": "A",
+      "findings": "- Absence or underdevelopment of ovaries\n- Significant enlargement of the uterus\n- Female\n- Vaginal dryness\n- Hot flashes\n- Difficulty conceiving",
+      "options": [
+        "Ovarian Tumors",
+        "Accessory Breast",
+        "Mayer-Rokitansky-Küster-Hauser syndrome (MRKH) or Congenital Vaginal Agenesis"
+      ],
+      "base": "C. Mayer",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_23823_2",
+      "ref": "C",
+      "findings": "- 'Ape hand' deformity\n- Neuroma in continuity\n- Neurotmesis\n- Intraneural fiber damage",
+      "options": [
+        "Progressive Spinal Muscular Atrophy",
+        "Radial Tunnel Syndrome",
+        "Median Nerve Injury"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11925_3",
+      "ref": "B",
+      "findings": "- Symmetrical dark purplish-red plaques on the extensor sides of the limbs\n- Recurrent episodes\n- Itching\n- Discoloration around the plaques\n- Mild fever",
+      "options": [
+        "Pruritic Urticarial Papules and Plaques of Pregnancy (PUPPP)",
+        "Persistent Pruritic Erythematous Plaque",
+        "DiGeorge Syndrome in Children"
+      ],
+      "base": "A. Pr",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_10545_1",
+      "ref": "B",
+      "findings": "- Dysphagia\n- Mild hoarseness\n- Difficulty speaking clearly after prolonged conversation\n- Occasional heartburn",
+      "options": [
+        "Hypopharyngeal Malignant Tumor",
+        "Vagus Nerve Injury",
+        "Riedel's Thyroiditis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1448_2",
+      "ref": "C",
+      "findings": "- Fatigue\n- Swelling around eyes\n- Double vision\n- Weight loss",
+      "options": [
+        "Lacunar Stroke",
+        "Psychosomatic Disorders",
+        "Ocular Lesions Associated with Sinonasal Squamous Cell Carcinoma"
+      ],
+      "base": "C",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_21576_1",
+      "ref": "C",
+      "findings": "- Vaginal itching\n- Burning sensation upon urination\n- Redness around the vulva\n- Slight swelling of the vulva",
+      "options": [
+        "Allergic Vaginitis",
+        "Nonspecific Vaginitis",
+        "Candidal Vulvovaginitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1255_2",
+      "ref": "A",
+      "findings": "- Blurred vision\n- Eye pain\n- Seeing 'halos' around lights\n- Reduced color vision",
+      "options": [
+        "Primary Open-Angle Glaucoma",
+        "Retinal Vein Occlusion",
+        "Terrien's Marginal Degeneration"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_20331_2",
+      "ref": "A",
+      "findings": "- Cold hands and feet\n- Mild anxiety\n- Frequent urination at night\n- Difficulty falling asleep",
+      "options": [
+        "Cold Accumulation",
+        "Chronic Spleen Wind",
+        "Tremors"
+      ],
+      "base": "A. Cold",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_4159_3",
+      "ref": "A",
+      "findings": "- Fever\n- Hepatomegaly\n- Malaise\n- Muscle aches",
+      "options": [
+        "Type II Immunoblastic Lymphadenopathy",
+        "Group B Streptococcus Infection",
+        "Human T-cell Lymphotropic Virus Infection"
+      ],
+      "base": "A. Type",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_7147_4",
+      "ref": "B",
+      "findings": "- Pain behind the sternum\n- Difficulty breathing\n- Exhaustion\n- Shock",
+      "options": [
+        "Esophageal Palsy",
+        "Secondary Mediastinitis",
+        "Esophagitis"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Secondary",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_549_1",
+      "ref": "B",
+      "findings": "- Absence of meconium post-birth\n- Newborn\n- Failure to thrive\n- Feeding difficulties\n- Vomiting",
+      "options": [
+        "Congenital Anal Atresia",
+        "Congenital Anorectal Disease",
+        "Congenital Anorectal Malformations"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Cong",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3714_5",
+      "ref": "B",
+      "findings": "- Agraphia\n- Acalculia\n- Facial agnosia\n- Visual agnosia\n- Child\n- Significant cognitive impairment\n- Confusion with spatial relationships\n- Problems with identifying colors\n- Challenges with fine motor skills",
+      "options": [
+        "Gastrointestinal Dysfunctions",
+        "Developmental Gerstmann Syndrome in Children",
+        "Gender Reassignment Surgery"
+      ],
+      "base": "B. Development",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_22694_3",
+      "ref": "C",
+      "findings": "- Cardiac arrest\n- Ventricular fibrillation\n- Pallor\n- Seizures",
+      "options": [
+        "Ventricular Escape Beats and Ventricular Escape Rhythm",
+        "Elderly Cardiac Conduction Block",
+        "Ventricular Flutter and Ventricular Fibrillation"
+      ],
+      "base": "C",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13533_2",
+      "ref": "A",
+      "findings": "- Narrowing of stools\n- Feeling that bowel does not empty completely\n- Iron-deficiency anemia\n- Weakness",
+      "options": [
+        "Rectal Cancer",
+        "Norovirus Gastroenteritis",
+        "Rectal Atresia"
+      ],
+      "base": "A. Rect",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_20103_5",
+      "ref": "A",
+      "findings": "- Numb patches on skin\n- Skin lesions\n- Nerve damage\n- Eye damage\n- Muscle weakness\n- Skin nodules\n- Facial disfigurement",
+      "options": [
+        "Leprosy",
+        "Pustular Disease",
+        "Actinic Keratosis"
+      ],
+      "base": "A. L",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_5558_3",
+      "ref": "A",
+      "findings": "- Precocious puberty\n- Abdominal mass\n- Abnormal hair growth\n- Acne",
+      "options": [
+        "Adolescent and Pediatric Ovarian Tumors",
+        "Premature Thelarche",
+        "Hepatoblastoma"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_18079_1",
+      "ref": "B",
+      "findings": "- Irregularly shaped white plaques\n- Slight itching\n- Mild discomfort\n- Pain during intercourse",
+      "options": [
+        "Ectopic Sebaceous Glands",
+        "Vulvar Lichen Sclerosus",
+        "Candidiasis of the Skin"
+      ],
+      "base": "B. Vul",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13707_2",
+      "ref": "C",
+      "findings": "- Diffused milky white discoloration of the nail plate\n- Brittleness of the affected nail\n- Sporadic pain under the nail\n- Increase in nail debris",
+      "options": [
+        "Thrombophlebitis",
+        "Melasma",
+        "Onychomycosis, Endonyx type"
+      ],
+      "base": "C. On",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_113_5",
+      "ref": "A",
+      "findings": "- Coughing\n- Hemoptysis\n- Fever\n- Chest pain\n- Unexplained weight loss\n- Change in voice\n- Persistent headache",
+      "options": [
+        "Lung Tumor",
+        "Pediatric Fungal Pneumonia",
+        "Francisella tularensis Pneumonia"
+      ],
+      "base": "A. Lung",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2250_1",
+      "ref": "B",
+      "findings": "- Headache\n- Somnolence\n- Tinnitus\n- Polydipsia",
+      "options": [
+        "Sellar Meningioma",
+        "Pineocytoma",
+        "Germ Cell Tumor"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_15997_5",
+      "ref": "A",
+      "findings": "- Decreased appetite\n- Fatigue\n- Breath smells like rotten apples\n- Weight loss\n- Dehydration\n- Dizziness\n- Lethargy",
+      "options": [
+        "Diabetic Ketoacidosis (DKA)",
+        "Radiation Sickness",
+        "Hepatitis A"
+      ],
+      "base": "A. Di",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11850_3",
+      "ref": "A",
+      "findings": "- Chest pain\n- Dyspnea\n- Frequent ventricular premature contractions\n- Ectopic tachycardia",
+      "options": [
+        "Bundle Branch Reentrant Ventricular Tachycardia",
+        "Descending Thoracic Aortic Aneurysm",
+        "Primary Cardiac Malignancy"
+      ],
+      "base": "A. Bundle",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2896_3",
+      "ref": "C",
+      "findings": "- Ulcers\n- Nodular polypoid mass\n- Change in bowel habits\n- Abdominal discomfort\n- Feeling of incomplete bowel evacuation",
+      "options": [
+        "Papulonecrotic Tuberculid",
+        "Cutaneous Leishmaniasis",
+        "Colorectal Malignant Lymphoma"
+      ],
+      "base": "C. Col",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6394_2",
+      "ref": "B",
+      "findings": "- Anuria\n- Child\n- Hyperkalemia\n- Myocardial hypertrophy\n- Arrhythmia",
+      "options": [
+        "Neonatal Acute Renal Failure",
+        "Pediatric Chronic Renal Failure",
+        "Pediatric Hypochloremic Azotemia Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_9648_5",
+      "ref": "A",
+      "findings": "- Swelling of the lower lip\n- Eversion of the lower lip\n- Lip discoloration\n- Lip cracking\n- Mild fever\n- Lymph node enlargement near the jawline\n- Loss of lip texture",
+      "options": [
+        "Glandular Cheilitis",
+        "Ectropion",
+        "Exfoliative Cheilitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**C**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12009_1",
+      "ref": "A",
+      "findings": "- Recurrent infections\n- Fatigue\n- Anemia\n- Night sweats",
+      "options": [
+        "Large Granular Lymphocyte Leukemia",
+        "Chronic Lymphocytic Leukemia (CLL)",
+        "Severe Combined Immunodeficiency (SCID)"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_13548_5",
+      "ref": "B",
+      "findings": "- Cough\n- Chest pain\n- Fever\n- Hypoglycemia\n- Wheezing\n- Difficulty breathing\n- Pleural effusion",
+      "options": [
+        "Localized mesothelioma",
+        "Diffuse Mesothelioma",
+        "Diffuse Malignant Mesothelioma"
+      ],
+      "base": "C. Diff",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_7603_5",
+      "ref": "B",
+      "findings": "- Lymphadenopathy\n- Fever\n- Hepatosplenomegaly\n- Pruritus\n- Rash\n- Shortness of breath\n- Joint pain",
+      "options": [
+        "Infectious Mononucleosis in Children",
+        "Human Monocytic Ehrlichiosis (HME)",
+        "Type I Immune Medullary Lymphadenopathy"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_20003_1",
+      "ref": "B",
+      "findings": "- Edema\n- Fatigue\n- Palpitations\n- Tremors",
+      "options": [
+        "Radiation Thyroiditis",
+        "Congenital Coronary Artery Fistula",
+        "Decompression Sickness of the Inner Ear"
+      ],
+      "base": "A. Radiation",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_10809_4",
+      "ref": "B",
+      "findings": "- Headache\n- Nausea and vomiting\n- Muscle weakness\n- Sensitivity to light",
+      "options": [
+        "Empty Sella Syndrome",
+        "Cerebral Fungal Granuloma",
+        "Dermatophytosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_20276_1",
+      "ref": "C",
+      "findings": "- Choking cough\n- Wheezing\n- Voice changes\n- Sore throat",
+      "options": [
+        "Whooping Cough",
+        "Vocal Cord Paralysis",
+        "Tracheal and Esophageal Foreign Bodies"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_10591_3",
+      "ref": "B",
+      "findings": "- Visible red lesion with spider-like appearance\n- Increased number of lesions over time\n- Mild discomfort upon touch\n- No bleeding from the lesions\n- Lesions primarily located on the face and neck",
+      "options": [
+        "Antimony and Its Compound-Induced Dermatosis",
+        "Spider Angioma",
+        "Perivascular Epithelioid Cell Tumor (PEComa)"
+      ],
+      "base": "B. Spider",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_22456_1",
+      "ref": "C",
+      "findings": "- Hot flashes\n- Female\n- Difficulty sleeping\n- Vaginal dryness\n- Mood swings",
+      "options": [
+        "Bone Steaming Syndrome",
+        "Premature Ovarian Failure (POF)",
+        "Menopausal Syndrome"
+      ],
+      "base": "C. Men",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12012_2",
+      "ref": "A",
+      "findings": "- Dysarthria\n- Child\n- Hearing loss\n- Difficulty swallowing\n- Muscle stiffness",
+      "options": [
+        "Pediatric Hereditary Ataxia",
+        "Spinocerebellar Degeneration",
+        "Bulbar Paralysis"
+      ],
+      "base": "A. Pediatric",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_19712_4",
+      "ref": "C",
+      "findings": "- Dyspnea\n- Cyanosis\n- Cough\n- Fatigue",
+      "options": [
+        "Cyanosis-Clubbing-Liver Disease Syndrome",
+        "Chronic Respiratory Failure",
+        "Acute Interstitial Pneumonia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_5331_3",
+      "ref": "B",
+      "findings": "- Bone pain\n- Fatigue\n- Mild fever\n- Redness at the site of pain\n- Limited range of motion",
+      "options": [
+        "Traumatic Femoral Head Necrosis",
+        "Osteosarcoma Dystocia Malignant Fibrous Histiocytoma",
+        "Osteogenesis Imperfecta"
+      ],
+      "base": "A. Tra",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_5073_4",
+      "ref": "B",
+      "findings": "- Chronic sinusitis\n- Bronchitis\n- Fatigue\n- Night sweats\n- Swollen lymph nodes",
+      "options": [
+        "Antibody Immunodeficiency Disease",
+        "Dysgammaglobulinemia",
+        "Hay Fever"
+      ],
+      "base": "C. Hay",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_17688_5",
+      "ref": "C",
+      "findings": "- Absence of defecation\n- Abdominal distention\n- Vomiting\n- Nausea\n- Newborn\n- Rapid breathing\n- Sunken eyes\n- A soft, bulging area in the abdomen",
+      "options": [
+        "Congenital Rectal Anomalies",
+        "Congenital Anal Atresia",
+        "Anorectal Atresia"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_14788_2",
+      "ref": "A",
+      "findings": "- Heart failure\n- Child\n- Poor appetite\n- Edema\n- Tachycardia",
+      "options": [
+        "Pediatric Dilated Cardiomyopathy",
+        "Congenital Mitral Valve Malformation",
+        "Aortic Valve Stenosis"
+      ],
+      "base": "A. Pediatric",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_22381_5",
+      "ref": "A",
+      "findings": "- Subjective itching\n- Rash as dense clusters\n- Pinpoint-sized vesicles\n- Shallow ulcers forming after rupture\n- Headache\n- Muscle aches\n- Swollen lymph nodes",
+      "options": [
+        "Herpes Simplex",
+        "Dyshidrosis",
+        "Tinea Corporis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B\n\n**",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14979_1",
+      "ref": "B",
+      "findings": "- Lower back pain\n- Frequent urination\n- Painful urination\n- Fever with chills",
+      "options": [
+        "Osteoporosis in the Elderly",
+        "Urinary and Reproductive System Mycosis",
+        "Cervical Hypertrophy"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12418_1",
+      "ref": "C",
+      "findings": "- Traumatic bleeding\n- Localized pain\n- Swelling\n- Redness",
+      "options": [
+        "Animal Bite Wounds",
+        "Scalp Hematoma",
+        "Sea Urchin Injury and Granuloma"
+      ],
+      "base": "B. Scal",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_6237_1",
+      "ref": "C",
+      "findings": "- Sensory disturbances\n- Muscle weakness\n- Urinary retention\n- Decreased reflexes",
+      "options": [
+        "Spinal Cord Abscess",
+        "Congenital Sensory Neuropathy",
+        "Syndrome of Artery of Adamkiewicz Ischemia Contributing to Spinal Cord Blood Supply in Cervical Segments"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_10090_3",
+      "ref": "A",
+      "findings": "- Ataxia\n- Intellectual decline\n- Splenomegaly\n- Hepatomegaly",
+      "options": [
+        "Hepatolenticular Degeneration with Psychiatric Disorders",
+        "Amino Acid Metabolism Disorders",
+        "Folic acid deficiency neuropathy"
+      ],
+      "base": "A. Hep",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1052_1",
+      "ref": "A",
+      "findings": "- Dyspnea\n- Cough\n- Expectoration\n- Fever",
+      "options": [
+        "Alveolar-Capillary Block Syndrome",
+        "Multiple Organ Dysfunction Syndrome (MODS)",
+        "Familial Pulmonary Arterial Hypertension"
+      ],
+      "base": "A. Al",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_17632_1",
+      "ref": "B",
+      "findings": "- Hepatosplenomegaly\n- Child\n- Bone pain\n- Nosebleeds\n- Fatigue",
+      "options": [
+        "Chronic Granulocytic Leukemia",
+        "Gaucher's Disease in Children",
+        "Hemoglobin E Disease"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11709_2",
+      "ref": "A",
+      "findings": "- Empty acetabulum\n- Pain upon leg movement\n- Hip instability\n- Difficulty bearing weight on the affected side",
+      "options": [
+        "Unilateral Facet Joint Dislocation",
+        "Cryptorchidism in Children",
+        "Post-term Pregnancy"
+      ],
+      "base": "A. Un",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_14641_3",
+      "ref": "A",
+      "findings": "- Bleeding\n- Periodontal pocket formation\n- Pain on chewing\n- Sensitive teeth\n- Halitosis",
+      "options": [
+        "Juvenile Periodontitis",
+        "Dental Fracture",
+        "Pericoronitis"
+      ],
+      "base": "A. Ju",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9519_2",
+      "ref": "B",
+      "findings": "- Proteinuria\n- Difficulty concentrating\n- Foamy urine\n- Swelling in the legs",
+      "options": [
+        "Glomerulonephritis",
+        "Secondary Systemic Amyloidosis",
+        "Autoimmune Thyroid Disease-Associated Nephropathy"
+      ],
+      "base": "A. Gl",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_4411_4",
+      "ref": "C",
+      "findings": "- Sensory loss\n- Paralysis\n- Mild aching pain in the thigh\n- Feeling of the leg 'giving way'\n- Reduced reflexes in the affected area",
+      "options": [
+        "Syndrome of Artery of Adamkiewicz Ischemia Contributing to Spinal Cord Blood Supply in Cervical Segments",
+        "Posterior Tibial Nerve Injury",
+        "Meralgia Paresthetica"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_21949_1",
+      "ref": "A",
+      "findings": "- Visual impairment\n- Male\n- Mild headache\n- Blurred vision\n- Photophobia",
+      "options": [
+        "Central Serous Chorioretinopathy (CSC)",
+        "Macular Hole-Associated Retinal Detachment",
+        "Intracranial Chordoma"
+      ],
+      "base": "A. Central",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3019_1",
+      "ref": "B",
+      "findings": "- Erythema\n- Male\n- Pruritus\n- Burning sensation\n- Viscous secretion on the glans penis",
+      "options": [
+        "Subcorneal Pustular Dermatosis",
+        "Candidal Balanitis",
+        "Recurrent Facial Dermatitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B\n\n**",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1620_2",
+      "ref": "C",
+      "findings": "- Pain in the occipitocervical region\n- Feeling of walking on cotton\n- Limited mobility\n- Dizziness",
+      "options": [
+        "Sacrococcygeal Fascial Fat Hernia",
+        "Intramuscular Injection Site Abscess",
+        "Upper Cervical Instability"
+      ],
+      "base": "C. Upper",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_4143_5",
+      "ref": "B",
+      "findings": "- Eczema\n- Growth and developmental disorders in children\n- Mucocutaneous congestion\n- Anemia\n- Recurrent fungal infections\n- Diarrhea\n- Oral ulcers",
+      "options": [
+        "Pediatric Secondary Immunodeficiency",
+        "Chronic Mucocutaneous Candidiasis",
+        "Vitamin B6 Dependency Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_14288_1",
+      "ref": "C",
+      "findings": "- Growth retardation\n- Child\n- Bone pain\n- Dehydration\n- Increased thirst",
+      "options": [
+        "Glycogen Storage Disease Type IX (Pediatric)",
+        "Mucopolysaccharidosis",
+        "Pediatric Multiple Tubular Dysfunction Syndrome"
+      ],
+      "base": "C. Pediatric",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13572_3",
+      "ref": "A",
+      "findings": "- Sensation of swallowing obstruction\n- Reflex ear pain\n- Altered taste\n- Nasal congestion\n- Headache",
+      "options": [
+        "Pharyngeal Malignant Tumor",
+        "Pharyngeal Tumor",
+        "Esophageal Disease"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C  \n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_20399_5",
+      "ref": "A",
+      "findings": "- Galactorrhea-Amenorrhea-Infertility Syndrome\n- Secondary Amenorrhea\n- Visual Field Defects\n- Eyelid Ptosis\n- Decreased Libido\n- Headache",
+      "options": [
+        "Prolactinoma",
+        "Galactorrhea-Amenorrhea Syndrome",
+        "Hyperprolactinemia"
+      ],
+      "base": "A. P",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "**A**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_15451_4",
+      "ref": "A",
+      "findings": "- Feeling of abdominal distension\n- Palpable abdominal mass\n- Anorexia\n- Weight loss\n- Constipation",
+      "options": [
+        "Omental Cyst",
+        "Ovarian Corona Cyst",
+        "Pancreatic Tail Cancer"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_20509_1",
+      "ref": "C",
+      "findings": "- Pallor\n- Elderly\n- Fatigue\n- Dry skin\n- Brittle nails",
+      "options": [
+        "Anemia of Chronic Disease",
+        "Hemolytic Anemia due to Excessive Hemolysis",
+        "Iron Deficiency Anemia in the Elderly"
+      ],
+      "base": "C. Iron",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_5653_5",
+      "ref": "A",
+      "findings": "- Persistent fever\n- Coughing\n- Shortness of breath\n- Abdominal ascites\n- Rash\n- Joint pain\n- Confusion",
+      "options": [
+        "Yersinia Enterocolitica and Yersinia Pseudotuberculosis Pneumonia",
+        "Pneumoconiosis",
+        "Paragonimiasis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_15582_2",
+      "ref": "B",
+      "findings": "- Weight loss\n- Elderly\n- Upper abdominal discomfort\n- Belching\n- Acid regurgitation",
+      "options": [
+        "Subdiaphragmatic Esophageal Diverticulum",
+        "Chronic Gastritis in the Elderly",
+        "Primary Esophageal Malignant Lymphoma"
+      ],
+      "base": "B. Chronic",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_10479_4",
+      "ref": "A",
+      "findings": "- Conjunctival congestion\n- Vomiting\n- Pale skin\n- Swelling around the eye",
+      "options": [
+        "Cluster Headaches",
+        "Ciliary Block (Malignant) Glaucoma",
+        "Erythema Infectiosum"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_8801_2",
+      "ref": "A",
+      "findings": "- Sensory disturbances\n- Muscle cramps\n- Bladder problems\n- Extreme sensitivity to temperature",
+      "options": [
+        "Arachnoiditis",
+        "Congenital Sensory Neuropathy",
+        "Syndrome of Artery of Adamkiewicz Ischemia Contributing to Spinal Cord Blood Supply in Cervical Segments"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_6488_4",
+      "ref": "A",
+      "findings": "- Lower abdominal pain\n- Ascites\n- Indigestion\n- Early satiety",
+      "options": [
+        "Fallopian Tube Carcinoma Triad",
+        "Ovarian Serous Tumor",
+        "Lower Gastrointestinal Bleeding"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_8245_4",
+      "ref": "C",
+      "findings": "- Inability to eat or drink\n- Persistent pain\n- Weight loss\n- Dehydration\n- General weakness",
+      "options": [
+        "Liposuction",
+        "Hearing Reconstruction",
+        "Food Stagnation"
+      ],
+      "base": "C. Food",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C. Food",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12211_2",
+      "ref": "A",
+      "findings": "- Rapid breathing\n- Reproductive age\n- Pallor\n- Cold sweat\n- Hematuria",
+      "options": [
+        "Uterine Rupture",
+        "Congenital Diaphragmatic Hernia",
+        "Xie Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_6121_3",
+      "ref": "C",
+      "findings": "- Headache\n- Dizziness\n- Child\n- Seizures\n- Intellectual disability\n- Behavior changes",
+      "options": [
+        "Sickle Cell Disease",
+        "Anterior Cranial Fossa Tumor",
+        "Encephalocele"
+      ],
+      "base": "B. Ant",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_5362_4",
+      "ref": "B",
+      "findings": "- Recurrent high fever\n- Aversion to cold\n- Nausea and vomiting\n- Hepatomegaly",
+      "options": [
+        "Erysipelas",
+        "Relapsing Fever",
+        "Elderly Anaerobic Pneumonia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13393_1",
+      "ref": "A",
+      "findings": "- Fatigue\n- Shortness of breath\n- Difficulty concentrating\n- Mouth ulcers",
+      "options": [
+        "Vitamin B12 Deficiency Anemia",
+        "Secondary Pulmonary Hypertension",
+        "Dilated Cardiomyopathy"
+      ],
+      "base": "A. Vitamin",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_7670_4",
+      "ref": "B",
+      "findings": "- Hypotension\n- Oliguria\n- Headache\n- Abdominal pain\n- Polyuria",
+      "options": [
+        "Hemorrhagic Fever",
+        "Epidemic Typhus",
+        "Cardiogenic Shock in the Elderly"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_11470_5",
+      "ref": "B",
+      "findings": "- Shortness of breath\n- Hemoptysis\n- Fatigue\n- Coma\n- Hepatosplenomegaly\n- Jugular venous distension\n- Anemia",
+      "options": [
+        "Pediatric Idiopathic Pulmonary Fibrosis",
+        "Left Atrial Malignant Myxoma",
+        "Partial Anomalous Pulmonary Venous Return (PAPVR)"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**B**",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_10553_5",
+      "ref": "A",
+      "findings": "- Irregular menstruation\n- Prolonged menstrual periods\n- Decrease in menstrual flow\n- Increase in menstrual flow\n- Severe abdominal pain\n- Extreme fatigue\n- Nausea\n- Vomiting",
+      "options": [
+        "Menstrual Disorders",
+        "Pelvic Tumor",
+        "Functional Uterine Bleeding"
+      ],
+      "base": "A. Men",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_20824_1",
+      "ref": "C",
+      "findings": "- Persistent fever\n- Mild headache\n- Blurred vision\n- Weight loss",
+      "options": [
+        "Otosyphilis Hydrocephalus",
+        "Otomastoiditis Meningitis",
+        "Acquired Immunodeficiency Syndrome Retinopathy"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_19837_3",
+      "ref": "B",
+      "findings": "- Pain at the upper part of the lower leg\n- Swelling\n- Visible deformity\n- Bruising",
+      "options": [
+        "Upper Extremity Deep Vein Thrombosis",
+        "Posterior Malleolus Fracture",
+        "Tibial Stress Fracture"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_19258_4",
+      "ref": "B",
+      "findings": "- Hemiparesis\n- Aphasia\n- Elderly\n- Difficulty concentrating\n- Sleep disturbance\n- Loss of balance",
+      "options": [
+        "Pediatric Moya Moya Disease",
+        "Chronic Subdural Hematoma",
+        "Subdural Empyema"
+      ],
+      "base": "B. Chronic",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11533_2",
+      "ref": "B",
+      "findings": "- Heart failure\n- Pallor\n- Cyanosis\n- Difficulty in breathing",
+      "options": [
+        "Thyroid Storm",
+        "Diphtheritic Myocarditis",
+        "Endocardial Fibroelastosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2781_3",
+      "ref": "A",
+      "findings": "- Limb movement disorder\n- Paralysis\n- Child\n- Difficulty walking\n- Speech difficulties\n- Joint deformities",
+      "options": [
+        "Spastic Cerebral Palsy",
+        "Cerebral Palsy Syndrome",
+        "Parasagittal Meningioma"
+      ],
+      "base": "A. Sp",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1402_2",
+      "ref": "C",
+      "findings": "- Ear pain\n- Fever\n- Difficulty hearing in noisy environments\n- Headache",
+      "options": [
+        "Barotrauma of the Ear",
+        "Otitis Externa",
+        "Cholesteatoma Otitis Media"
+      ],
+      "base": "B. O",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_19226_3",
+      "ref": "C",
+      "findings": "- Cough\n- Abnormal breathing\n- Headache\n- Muscle pain",
+      "options": [
+        "Paragonimiasis",
+        "Pulmonary Arteriovenous Malformation (PAVM)",
+        "Pneumonia in Immunocompromised Individuals"
+      ],
+      "base": "C. P",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_7581_2",
+      "ref": "C",
+      "findings": "- Loose associations\n- Thought disintegration\n- Obsessive-compulsive neurosis\n- Solitary personality in the elderly",
+      "options": [
+        "Paralytic Dementia",
+        "Pediatric Tic Disorder",
+        "Schizophrenia"
+      ],
+      "base": "C. Sch",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1424_2",
+      "ref": "C",
+      "findings": "- Constipation\n- Bloating\n- Headache\n- Fatigue",
+      "options": [
+        "Fecal Colon Perforation",
+        "Rectal Adenoma",
+        "Feng Mi (Constipation due to Wind Syndrome)"
+      ],
+      "base": "C",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13290_3",
+      "ref": "C",
+      "findings": "- Sparse menstruation\n- Weight gain\n- Hair loss\n- Brittle nails",
+      "options": [
+        "Liposuction",
+        "Poor Follicular Development",
+        "Follicular Adenoma Proliferation Syndrome"
+      ],
+      "base": "B. Poor",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_16474_1",
+      "ref": "B",
+      "findings": "- Post-exercise muscle cramps\n- Elevated heart rate post-exercise\n- Mild fever\n- Slight dehydration",
+      "options": [
+        "Chylous Blood",
+        "Glycogen Storage Disease Type V",
+        "Hereditary Neuropathy with Liability to Pressure Palsies (HNPP)"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_15588_4",
+      "ref": "C",
+      "findings": "- Papules\n- Acrokeratosis\n- Facial redness\n- Nail abnormalities\n- Scarring",
+      "options": [
+        "Lymphomatoid Papulosis",
+        "Comedonal Nevus",
+        "Multiple Trichoepitheliomas in Brooke-Spiegler Syndrome"
+      ],
+      "base": "A. L",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_2232_2",
+      "ref": "B",
+      "findings": "- Jaundice\n- Elderly\n- fever\n- vomiting\n- hypoxemia",
+      "options": [
+        "Sphincter of Oddi Dysfunction (SOD)",
+        "Cholelithiasis in Elderly",
+        "Congenital Hepatic Fibrosis and Caroli's Disease"
+      ],
+      "base": "Given the clinical",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12795_5",
+      "ref": "B",
+      "findings": "- Slow growth\n- Osteoporosis\n- Reduced muscle tone\n- Coma\n- Child\n- Anorexia\n- Somnolence\n- Dehydration",
+      "options": [
+        "Pediatric Zinc Deficiency",
+        "Propionic Acidemia in Children",
+        "Pediatric Methylmalonic Acidemia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_770_2",
+      "ref": "A",
+      "findings": "- Somnolence\n- Hallucinations\n- Epilepsy and epileptiform seizures\n- Sensory disturbances",
+      "options": [
+        "Primary Central Nervous System Lymphoma",
+        "Narcolepsy",
+        "Nephrogenic Encephalopathy"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12856_4",
+      "ref": "C",
+      "findings": "- Tachycardia\n- Excessive sweating\n- Female\n- Increased appetite\n- Hair thinning\n- Nervousness",
+      "options": [
+        "Stiff Person Syndrome (SPS)",
+        "Status Asthmaticus",
+        "Painless Thyroiditis"
+      ],
+      "base": "A. St",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_3846_3",
+      "ref": "B",
+      "findings": "- Tinnitus\n- Hearing loss\n- Child\n- Nasal congestion\n- Vomiting",
+      "options": [
+        "Otitis Media",
+        "Adenoiditis",
+        "Conductive Hearing Loss"
+      ],
+      "base": "C. Conduct",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14291_3",
+      "ref": "C",
+      "findings": "- Fever with chills\n- Joint pain\n- Nausea\n- Diarrhea",
+      "options": [
+        "Actinomycosis",
+        "Gonococcal Arthritis",
+        "Dengue Fever"
+      ],
+      "base": "C. Deng",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C. Deng",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13940_1",
+      "ref": "C",
+      "findings": "- Cough\n- Mild wheezing\n- Shortness of breath\n- Night sweats",
+      "options": [
+        "Aspergillosis",
+        "Bronchitis",
+        "Simple Pulmonary Eosinophilia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_339_2",
+      "ref": "A",
+      "findings": "- Vesicles\n- Female\n- Burning sensation\n- Tenderness\n- Fluid discharge",
+      "options": [
+        "Breast Eczema",
+        "Pediatric Miliaria",
+        "Nickel and its Compound-induced Dermatitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_11566_3",
+      "ref": "C",
+      "findings": "- Ulcers\n- Scars\n- Tenderness\n- Swelling\n- Sensation of heat",
+      "options": [
+        "Trench foot",
+        "Factitious Dermatitis",
+        "Occupational Skin Cancer"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_2110_4",
+      "ref": "B",
+      "findings": "- Abdominal pain\n- Hematuria\n- Urinary urgency\n- Reduced urine flow",
+      "options": [
+        "Congenital Urinary Tract Anomalies",
+        "Kidney Stones",
+        "Urolithiasis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Kid",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_5155_4",
+      "ref": "B",
+      "findings": "- Apathy\n- Decreased energy\n- Elderly\n- Loss of interest in hobbies\n- Changes in appetite\n- Hopelessness",
+      "options": [
+        "Hypothyroid Heart Disease in the Elderly",
+        "Late-life Depression",
+        "Heat Exhaustion"
+      ],
+      "base": "B. Late",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_20864_1",
+      "ref": "A",
+      "findings": "- Acute respiratory distress\n- Fever\n- Fatigue\n- Cough",
+      "options": [
+        "Acute Respiratory Distress Syndrome (ARDS) in Adults",
+        "Neonatal Respiratory Distress Syndrome (NRDS)",
+        "Congenital Pulmonary Hypoplasia"
+      ],
+      "base": "A. Ac",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1793_5",
+      "ref": "B",
+      "findings": "- Pupil abnormalities\n- Reduced or absent secretion of tears\n- Nausea and vomiting\n- Urinary retention\n- Constipation\n- Heart rate irregularities\n- Unexplained sweating",
+      "options": [
+        "Botulism",
+        "Acute Autonomic Dysregulation",
+        "Heatstroke"
+      ],
+      "base": "B. Ac",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_273_5",
+      "ref": "B",
+      "findings": "- Sensory disturbances\n- Pyramidal tract lesions\n- Visual field defects\n- Apraxia\n- Elderly\n- Memory impairment\n- Dizziness\n- Slow reaction",
+      "options": [
+        "Hereditary Hemorrhagic Telangiectasia (HHT) Syndrome",
+        "Lacunar Stroke in the Elderly",
+        "Hereditary Motor Sensory Neuropathy"
+      ],
+      "base": "B. Lac",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8386_5",
+      "ref": "B",
+      "findings": "- Myalgia\n- Symptom relief after steroid reduction\n- Disappearance of posterior muscle pain\n- Chronic fatigue\n- Muscle twitching\n- Shortness of breath\n- Difficulty swallowing",
+      "options": [
+        "Gastrointestinal Dysfunctions",
+        "Steroid Myopathy",
+        "Gender Reassignment Surgery"
+      ],
+      "base": "B. Ster",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1755_5",
+      "ref": "C",
+      "findings": "- Vomiting blood\n- Melena\n- Circulatory failure\n- Hypotension\n- Elderly\n- Lethargy\n- Restlessness\n- Weakness",
+      "options": [
+        "Neonatal Swallow Syndrome",
+        "Gastric Neurofibroma",
+        "Upper Gastrointestinal Bleeding in the Elderly"
+      ],
+      "base": "C. Upper",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_21269_2",
+      "ref": "B",
+      "findings": "- Chills\n- Vomiting\n- Facial skin flushing\n- Scleral edema",
+      "options": [
+        "Acute Cholangitis",
+        "Xinjiang Hemorrhagic Fever",
+        "Febrile Disease"
+      ],
+      "base": "A. Ac",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_378_4",
+      "ref": "A",
+      "findings": "- Localized, keratotic, conical thickening\n- Tenderness in the affected area\n- Burning sensation\n- Swelling around the corn\n- Difficulty in walking",
+      "options": [
+        "Corns",
+        "Tendinopathy",
+        "Unicameral Bone Cyst in Children"
+      ],
+      "base": "A. Corn",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9707_4",
+      "ref": "C",
+      "findings": "- Shortness of breath after activity\n- Dry cough\n- Shoulder lifting to aid breathing\n- Nasal flaring",
+      "options": [
+        "Chylous Blood",
+        "Langerhans Cell Histiocytosis (LCH)",
+        "Asthma"
+      ],
+      "base": "C. Ast",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_15470_5",
+      "ref": "C",
+      "findings": "- Pain\n- Swelling\n- Bruising\n- Reduced range of motion\n- A feeling of warmth in the injured area\n- A dull ache in the elbow at rest\n- Visible deformity if the fracture is severe",
+      "options": [
+        "Ligament Injury",
+        "Soft Tissue Injury",
+        "Lateral Epicondyle Fracture of the Humerus"
+      ],
+      "base": "C. L",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13662_3",
+      "ref": "C",
+      "findings": "- Absence of cranial bones\n- No elevated masses\n- Newborn\n- Irritability\n- Excessive sleepiness\n- Poor growth",
+      "options": [
+        "Congenital Anorectal Disease",
+        "Neonatal Purulent Meningitis",
+        "Cranial Cleft"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Neon",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_13426_4",
+      "ref": "C",
+      "findings": "- Changes in vision\n- Visual field changes\n- Seeing 'floaters' or flashes of light\n- Loss of central vision\n- Difficulty driving at night",
+      "options": [
+        "Central Serous Chorioretinopathy",
+        "Congenital Retinoschisis",
+        "Age-related Macular Degeneration (AMD)"
+      ],
+      "base": "C. Age",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_7445_3",
+      "ref": "C",
+      "findings": "- Red eyes\n- Itchy eyes\n- Tearing\n- Feeling of dryness\n- Sensitivity to light",
+      "options": [
+        "Neonatal Dacryocystitis",
+        "Conjunctivitis",
+        "Ocular Disease"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Conj",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_9715_1",
+      "ref": "C",
+      "findings": "- Twitching\n- Confusion\n- Sleepiness after event\n- Temporary weakness",
+      "options": [
+        "Neuromyotonia",
+        "Dyskinesia",
+        "Convulsions"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9255_5",
+      "ref": "B",
+      "findings": "- Local pain\n- Swelling\n- Palpable pulsation of vessels\n- Audible vascular murmurs\n- Limb movement disorders\n- Obvious tenderness\n- Decreased range of motion in the affected limb",
+      "options": [
+        "Bite and Sting Wounds",
+        "Osteosarcoma of Blood Vessels",
+        "Supracondylar Fracture of the Humerus"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_6412_5",
+      "ref": "C",
+      "findings": "- Sore throat\n- Pharyngeal congestion\n- Dysphagia\n- Foreign body sensation in the throat\n- Lymph node swelling\n- Headache\n- Muscle aches",
+      "options": [
+        "Thyroglossal Duct Cyst",
+        "Pharyngalgia",
+        "Chronic Pharyngitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B, C",
+      "adapter_choice": null,
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12854_1",
+      "ref": "B",
+      "findings": "- Nodules\n- Fast-growing mass\n- Painless\n- Localized swelling",
+      "options": [
+        "Mucinous Eccrine Carcinoma",
+        "Nodular Fasciitis",
+        "Infantile Digital Fibromatosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_4369_4",
+      "ref": "C",
+      "findings": "- Melena\n- Dyspnea\n- Chest pain\n- Indigestion",
+      "options": [
+        "Congenital Diaphragmatic Hernia in Newborns",
+        "Cytomegalovirus Pneumonia",
+        "Gastric Volvulus"
+      ],
+      "base": "C. Ga",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3007_1",
+      "ref": "A",
+      "findings": "- Spasmodic torticollis\n- Anxiety\n- Fatigue\n- Sleep disturbances",
+      "options": [
+        "Dystonia Syndrome",
+        "Congenital Cervical Vertebrae Odontoid Process Malformation",
+        "Accessory Nerve Injury"
+      ],
+      "base": "A. D",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_8384_3",
+      "ref": "B",
+      "findings": "- Weight loss\n- Decreased appetite\n- Night sweats\n- Difficulty swallowing",
+      "options": [
+        "Geriatric Depression",
+        "Gastrointestinal Cancer",
+        "Gastric Cancer"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. G",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_23272_4",
+      "ref": "C",
+      "findings": "- intestinal gas\n- abdominal pain\n- diarrhea\n- abnormal bowel sounds",
+      "options": [
+        "Small Intestinal Foreign Bodies",
+        "Splenic Cyst",
+        "Pelvic Peritoneal Hernia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_3760_3",
+      "ref": "C",
+      "findings": "- Sudden onset of chest pain\n- difficulty breathing\n- chest tightness\n- restlessness",
+      "options": [
+        "Pediatric Laryngospasm",
+        "Asymptomatic Coronary Arteriosclerosis Heart Disease",
+        "Spontaneous Pneumothorax"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_16309_1",
+      "ref": "B",
+      "findings": "- Generalized hypotonia\n- Child\n- Male\n- Hearing loss\n- Frequent respiratory infections\n- Hernias",
+      "options": [
+        "Periodic Paralysis",
+        "Mucopolysaccharidosis Type II",
+        "Cerebral Palsy in Children"
+      ],
+      "base": "C. C",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_4728_3",
+      "ref": "B",
+      "findings": "- Hypertension\n- Muscle weakness\n- Polyuria\n- Irritability",
+      "options": [
+        "Hypernatremia in the Elderly",
+        "Liddle's syndrome",
+        "Pseudohypertension"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**B.",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_635_5",
+      "ref": "A",
+      "findings": "- Constipation\n- Rectal bleeding\n- Difficulty in bowel movements\n- Rectal pain\n- Pelvic discomfort\n- Visible prolapse\n- Feeling of rectal fullness",
+      "options": [
+        "Rectal Prolapse",
+        "Rectal Adenoma",
+        "Pelvic Floor Dysfunction"
+      ],
+      "base": "A. Rect",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13489_1",
+      "ref": "C",
+      "findings": "- Pain at the medial epicondylar prominence\n- Mild discomfort when bending the arm\n- Slight stiffness in the morning\n- Tenderness when pressing on the inside of the elbow",
+      "options": [
+        "Lumbar 3 Transverse Process Hyperplasia",
+        "Patellofemoral Pain Syndrome",
+        "Medial Epicondylitis of the Humerus"
+      ],
+      "base": "C. Med",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_15827_5",
+      "ref": "B",
+      "findings": "- Cough\n- Wheezing\n- Chest tightness\n- Orthopnea\n- Elderly\n- Fatigue\n- Difficulty speaking in full sentences\n- Swollen ankles",
+      "options": [
+        "Asthma Complicating Pregnancy",
+        "Elderly Bronchial Asthma",
+        "Coal Workers' Pneumoconiosis (CWP)"
+      ],
+      "base": "B. Elder",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_20303_4",
+      "ref": "B",
+      "findings": "- Anemia\n- Pallor\n- Increased susceptibility to infections\n- Craving for ice or dirt",
+      "options": [
+        "Folic Acid Deficiency Anemia",
+        "Anemia of Chronic Disease",
+        "Drug-induced Hemolytic Anemia in Children"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9786_4",
+      "ref": "B",
+      "findings": "- Borborygmus\n- Bloating\n- Sour belching\n- Loss of appetite",
+      "options": [
+        "Lumbar Hernia",
+        "Food Induced Diarrhea",
+        "Enteropathogenic Escherichia coli Infection"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_6473_3",
+      "ref": "B",
+      "findings": "- Itching\n- Enlargement of the cervical lymph nodes\n- Night sweats\n- Chills\n- Fatigue",
+      "options": [
+        "Nonspecific Vulvitis",
+        "Pregnancy Complicated with Lymphoma",
+        "Cervical Lymph Node Tuberculosis"
+      ],
+      "base": "B. C",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12016_2",
+      "ref": "A",
+      "findings": "- Abdominal pain\n- Fever\n- Purulent urine\n- Shock",
+      "options": [
+        "Enterocutaneous Fistula",
+        "Irritable Bowel Syndrome in the Elderly",
+        "Fifth Day Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14529_2",
+      "ref": "C",
+      "findings": "- Syncope\n- Child\n- Mild chest pain\n- Cold sweats\n- Shortness of breath",
+      "options": [
+        "Ischemic Polymorphic Ventricular Tachycardia",
+        "Pediatric Sinus Bradycardia",
+        "Arrhythmogenic Right Ventricular Cardiomyopathy in Children"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8112_3",
+      "ref": "A",
+      "findings": "- Loosening of multiple teeth in the affected area\n- Limited mouth opening\n- Unpleasant taste in the mouth\n- Bad breath",
+      "options": [
+        "Acute Osteomyelitis of the Jaw",
+        "Rickets",
+        "Facial Paralysis"
+      ],
+      "base": "A\n\n**",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_21004_3",
+      "ref": "C",
+      "findings": "- Fever\n- Weight loss\n- Anemia\n- Malaise",
+      "options": [
+        "Abdominal Fibrosarcoma",
+        "Hidradenitis Suppurativa",
+        "Temporal Arteritis"
+      ],
+      "base": "C. Temp",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_5881_5",
+      "ref": "A",
+      "findings": "- Dizziness\n- Tinnitus\n- Hearing loss\n- Headache\n- Nausea and vomiting\n- Difficulty sleeping\n- Loss of appetite",
+      "options": [
+        "Vestibular Schwannoma",
+        "Drug-induced Deafness",
+        "Epidermoid cyst"
+      ],
+      "base": "A. Vest",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_5525_2",
+      "ref": "A",
+      "findings": "- Abdominal pain\n- Chest pain\n- Asthma\n- Episodic skin flushing",
+      "options": [
+        "Colorectal Carcinoid",
+        "Fecal Colon Perforation",
+        "Fifth Day Syndrome"
+      ],
+      "base": "C. Fifth",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_10535_4",
+      "ref": "A",
+      "findings": "- Right-sided heart failure\n- Hyperthyroidism\n- Proximal muscle weakness\n- Increased systolic blood pressure\n- Decreased diastolic blood pressure",
+      "options": [
+        "Hyperthyroid Heart Disease",
+        "Cardiac Sarcoidosis",
+        "Hyperparathyroidism-related Cardiomyopathy"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11442_2",
+      "ref": "A",
+      "findings": "- Immunodeficiency\n- Fatigue\n- Night sweats\n- Mild fevers",
+      "options": [
+        "Metastatic Cancer",
+        "Hypogammaglobulinemia",
+        "Severe Combined Immunodeficiency (SCID)"
+      ],
+      "base": "A. Met",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_18485_4",
+      "ref": "A",
+      "findings": "- Hematuria\n- Painful urination\n- Burning sensation during urination\n- Pain\n- Discomfort during intercourse",
+      "options": [
+        "Female Urethral Cancer",
+        "Ureteral Tuberculosis",
+        "Urinary Irritation Syndrome"
+      ],
+      "base": "C. Ur",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_5099_2",
+      "ref": "B",
+      "findings": "- 'Duck walk' gait\n- Child\n- Difficulty walking\n- Favoring one side while crawling\n- Asymmetrical thigh creases",
+      "options": [
+        "Pediatric Acute Laryngitis",
+        "Developmental Dysplasia of the Hip (DDH)",
+        "Pediatric Genu Varum Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B\n\n**",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_14300_1",
+      "ref": "B",
+      "findings": "- Papule\n- General discomfort\n- Itching\n- Increased pulse rate",
+      "options": [
+        "Pilar Tumor",
+        "Cutaneous Anthrax",
+        "Clustered Hemangioma"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Cut",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1386_1",
+      "ref": "B",
+      "findings": "- Open comedones\n- Mild pain or discomfort on palpation\n- Self-consciousness about appearance\n- Slight erythema around comedones",
+      "options": [
+        "Pediatric Condyloma Acuminatum",
+        "Acne Vulgaris",
+        "Acne Conglobata"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Ac",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13452_3",
+      "ref": "C",
+      "findings": "- Paroxysmal coughing\n- Sneezing\n- Red eyes\n- Shortness of breath",
+      "options": [
+        "Allergic Rhinitis",
+        "Parainfluenza",
+        "Allergic Cough"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_11900_5",
+      "ref": "C",
+      "findings": "- Reduced palpebral fissure size\n- Blurred vision\n- Lowered immune function\n- Ptosis\n- Ectropion\n- Lagophthalmos\n- Difficulty in focusing",
+      "options": [
+        "Iron Deficiency Anemia",
+        "Ischemic Optic Neuropathy",
+        "Blepharophimosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6531_5",
+      "ref": "A",
+      "findings": "- Nodules\n- Granulomas\n- Skin ulceration\n- Secondary infection\n- Child\n- Loss of appetite\n- Skin redness and warmth\n- Fussiness",
+      "options": [
+        "Infantile Granuloma Gluteale",
+        "Infantile Digital Fibromatosis",
+        "Congenital Preauricular Fistula"
+      ],
+      "base": "A. Infant",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_4999_2",
+      "ref": "C",
+      "findings": "- Hemiplegic gait\n- Balance problems\n- Fatigue\n- Visual disturbances",
+      "options": [
+        "Cerebral Infarction",
+        "Cerebral Thrombosis",
+        "Hemiplegia"
+      ],
+      "base": "A. C",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8086_4",
+      "ref": "B",
+      "findings": "- Diplopia\n- Visual field defect\n- Foreign body sensation in the eye\n- Dry eyes\n- Night blindness",
+      "options": [
+        "Corneal Degeneration",
+        "Corneal Dystrophy",
+        "Posterior Vitreous Detachment (PVD)"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3281_1",
+      "ref": "C",
+      "findings": "- Fever\n- Sore throat\n- General weakness\n- Diarrhea",
+      "options": [
+        "Rotavirus Enteritis",
+        "H7N9 Avian Influenza",
+        "Viral Meningitis"
+      ],
+      "base": "A. Rot",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_3016_2",
+      "ref": "A",
+      "findings": "- Burning sensation at the entrance of the vagina\n- Itching around the vulva\n- Discomfort wearing tight clothing\n- Painful urination",
+      "options": [
+        "Vulvar Vestibulitis",
+        "Candidal Vaginitis",
+        "Lichen Sclerosus"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_17401_4",
+      "ref": "C",
+      "findings": "- Weight loss\n- Diarrhea\n- Nausea and vomiting\n- Constipation\n- Malnutrition",
+      "options": [
+        "Chronic Pancreatitis",
+        "Anorexia Nervosa",
+        "Tuberculous Mesenteric Lymphadenitis"
+      ],
+      "base": "B. An",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12787_3",
+      "ref": "A",
+      "findings": "- Coma\n- Convulsions\n- Cyanosis\n- Delirium\n- Diaphoresis",
+      "options": [
+        "Pyrazolone Poisoning",
+        "Senile Pulmonary Encephalopathy",
+        "Acute Toxic Encephalitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_10376_1",
+      "ref": "C",
+      "findings": "- Pain\n- Limited mobility of the affected limb\n- External rotation deformity of the lower limb\n- Inability to stand or walk",
+      "options": [
+        "De Quervain's Tenosynovitis",
+        "Hand Tendon Injury",
+        "Intertrochanteric Fracture of the Femur"
+      ],
+      "base": "C. Int",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_22663_3",
+      "ref": "A",
+      "findings": "- Contraction of all vaginal muscles\n- Abnormal sensations in the vulva\n- Difficulty using tampons\n- Pain during gynecological exams\n- Fear of penetration",
+      "options": [
+        "Vaginismus",
+        "Female Orgasmic Disorder",
+        "Vaginitis"
+      ],
+      "base": "A. V",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8925_5",
+      "ref": "B",
+      "findings": "- Abdominal pain\n- Fever\n- Abdominal mass\n- Disappearance of bowel sounds\n- Sweating\n- Chills\n- Loss of weight",
+      "options": [
+        "Ovarian Yolk Sac Tumor",
+        "Pancreatic Fistula",
+        "Supernumerary Kidney"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_1243_4",
+      "ref": "A",
+      "findings": "- Vasculitis\n- Unexplained fever\n- Child\n- Rash\n- Joint pain\n- Muscle aches",
+      "options": [
+        "Pediatric Interferon-Gamma Receptor Deficiency Disease",
+        "Puerperal Septic Pelvic Thrombophlebitis",
+        "Colorectal Neoplasms in the Elderly"
+      ],
+      "base": "A",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6402_1",
+      "ref": "A",
+      "findings": "- Diplopia\n- Headache\n- Nausea\n- Nasal congestion",
+      "options": [
+        "Nasal Sinus Trauma",
+        "Retinal Vein Occlusion",
+        "Lens Dislocation"
+      ],
+      "base": "A. Nas",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3531_3",
+      "ref": "A",
+      "findings": "- Dysphagia\n- Retrosternal pain\n- Hoarseness\n- Feeling of food stuck in the chest",
+      "options": [
+        "Esophageal Papilloma",
+        "Pediatric Esophageal Chemical Burns",
+        "Esophageal Perforation by Foreign Body"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_8003_1",
+      "ref": "C",
+      "findings": "- Fever\n- Child\n- Nausea\n- Upper abdominal pain\n- Vomiting",
+      "options": [
+        "Gastric Tuberculosis",
+        "Pediatric Pneumococcal Meningitis",
+        "Pediatric Acute Pancreatitis"
+      ],
+      "base": "C. Pediatric",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6035_5",
+      "ref": "A",
+      "findings": "- Loss of appetite\n- Nausea and aversion to oil\n- Palmar erythema\n- Spider angiomas\n- Irritability\n- Difficulty concentrating\n- Jaundice",
+      "options": [
+        "Hepatitis",
+        "Pregnancy with Cirrhosis",
+        "Esophagogastric Varices and Their Rupture and Hemorrhage"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**A**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12413_3",
+      "ref": "A",
+      "findings": "- Pain\n- Limited wrist movement\n- Clicking sound in wrist\n- Tenderness in specific area of wrist",
+      "options": [
+        "Scaphoid Fracture",
+        "Distal Radial Epiphysial Separation",
+        "Intertrochanteric Femur Fracture"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11708_1",
+      "ref": "B",
+      "findings": "- Fever\n- Headache\n- Weakness\n- Muscle pain",
+      "options": [
+        "Rickettsia Typhi (Murine Typhus)",
+        "Typhoid Fever",
+        "Pyogenic Streptococcal Infection"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_7467_3",
+      "ref": "C",
+      "findings": "- Vomiting\n- Hematemesis\n- Abdominal discomfort\n- Nausea",
+      "options": [
+        "Mallory-Weiss Syndrome",
+        "Gastric Ulcer Malignancy",
+        "Gastric Carcinoid Tumors"
+      ],
+      "base": "A. Mall",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_19361_3",
+      "ref": "A",
+      "findings": "- Hemiplegia\n- Headache\n- Nausea\n- Altered Consciousness",
+      "options": [
+        "Intracranial Melanoma",
+        "Acute and Subacute Intracerebral Hematoma",
+        "Subacute Epidural Hematoma"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_16802_2",
+      "ref": "C",
+      "findings": "- Coughing up foul-smelling sputum\n- Chest pain\n- Electrolyte imbalances\n- General weakness",
+      "options": [
+        "Polymicrobial Pulmonary Infection",
+        "Cerebral Paragonimiasis",
+        "Acute Lung Abscess"
+      ],
+      "base": "C. Ac",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_5767_1",
+      "ref": "C",
+      "findings": "- Scaly plaques\n- Joint pain\n- Fatigue\n- Itching",
+      "options": [
+        "Calcinosis Cutis due to Malnutrition",
+        "Cutaneous T-Cell Lymphoid Hyperplasia",
+        "Psoriasis"
+      ],
+      "base": "C. Ps",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9514_5",
+      "ref": "C",
+      "findings": "- Ischemic stabbing pain in the neck\n- Underdeveloped musculature of the scapular belt\n- Body pain\n- Anxiety\n- Depression\n- Insomnia\n- Increased sensitivity to cold",
+      "options": [
+        "Compartment Syndrome",
+        "Peripheral Neuropathy",
+        "Anterior Scalene Syndrome"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**C**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8088_3",
+      "ref": "B",
+      "findings": "- Abdominal bloating\n- Diarrhea\n- Fatigue\n- Nausea",
+      "options": [
+        "Pediatric Abdominal Distension",
+        "Tapeworm Infection",
+        "Hepatitis Virus-Associated Rheumatic Disease"
+      ],
+      "base": "A. Pediatric",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_11803_2",
+      "ref": "B",
+      "findings": "- Mucous stools\n- Palpitations\n- Sweating\n- Diarrhea",
+      "options": [
+        "Latent Syphilis",
+        "Allergic Colitis",
+        "Isosporiasis"
+      ],
+      "base": "C. Is",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_8079_4",
+      "ref": "A",
+      "findings": "- Crying\n- Poor appetite\n- Newborn\n- Weight loss\n- Light-colored stools\n- Pruritus",
+      "options": [
+        "Neonatal Congenital Biliary Atresia",
+        "Neonatal ABO Hemolytic Disease",
+        "Rh Incompatibility"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2738_3",
+      "ref": "A",
+      "findings": "- Headache\n- Fever\n- Nausea\n- Anemia",
+      "options": [
+        "Central Nervous System Tuberculoma",
+        "Pediatric Leukemia",
+        "Acute Granulocytic Leukemia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_5000_2",
+      "ref": "B",
+      "findings": "- Numbness\n- Muscle stiffness\n- Reduced range of neck motion\n- Unsteady gait",
+      "options": [
+        "Traumatic Spondylolisthesis of the Axis",
+        "Ossification of the Posterior Longitudinal Ligament of the Cervical Spine (OPLL)",
+        "Trigeminal Neuralgia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B\n\n**",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2000_3",
+      "ref": "B",
+      "findings": "- Nausea\n- Aversion to oils\n- Bloating\n- Headache\n- Dizziness",
+      "options": [
+        "Cutaneous Gnathostomiasis",
+        "Hepatic Heat Disease",
+        "Prenatal Checkup"
+      ],
+      "base": "B. Hep",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_19009_5",
+      "ref": "B",
+      "findings": "- Frequent defecation\n- Abdominal pain\n- Vomiting\n- Bloody diarrhea\n- Child\n- Rectal bleeding\n- Urgency to defecate\n- Nausea",
+      "options": [
+        "Dysentery",
+        "Pediatric Ulcerative Colitis",
+        "Pediatric Escherichia coli Enteritis"
+      ],
+      "base": "A. Dys",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_22823_5",
+      "ref": "C",
+      "findings": "- Headache\n- Runny nose\n- Sneezing\n- Cough\n- Yellow tongue coating\n- Sore throat",
+      "options": [
+        "Catarhal Rhinitis",
+        "Hay Fever",
+        "Common Cold"
+      ],
+      "base": "A. C",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_4693_1",
+      "ref": "A",
+      "findings": "- Restlessness\n- Child\n- Facial flushing\n- Urinary incontinence\n- Dizziness",
+      "options": [
+        "Pediatric Oak Silkworm Pupae Encephalopathy Syndrome",
+        "Binge Eating Disorder",
+        "Heart Fire Flaring Upward"
+      ],
+      "base": "A",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_12557_2",
+      "ref": "C",
+      "findings": "- Vomiting blood\n- Loss of appetite\n- Mild fever\n- Abdominal bloating",
+      "options": [
+        "Gastric Neurofibroma",
+        "Idiopathic Non-cirrhotic Portal Hypertension",
+        "Gastric Tumor"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_22805_3",
+      "ref": "A",
+      "findings": "- hyperpnea\n- abnormal breath\n- apathy\n- metabolic acidosis",
+      "options": [
+        "Hypoventilation Syndrome",
+        "Acute Heart Failure",
+        "Congenital Laryngeal Stridor"
+      ],
+      "base": "A. Hyp",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9024_1",
+      "ref": "C",
+      "findings": "- Rapid heartbeat\n- Anxiety\n- Chest discomfort\n- Shortness of breath",
+      "options": [
+        "Ventricular Parasystole and Ventricular Parasystolic Tachycardia",
+        "Ventricular Tachycardia",
+        "Chronic Automatic Atrial Tachycardia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_15927_4",
+      "ref": "C",
+      "findings": "- Instability\n- Effusion\n- Difficulty bearing weight\n- Altered gait",
+      "options": [
+        "Hypothalamic Disease",
+        "Protein-losing Enteropathy",
+        "Neurogenic Arthropathy"
+      ],
+      "base": "C. Neuro",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2465_4",
+      "ref": "A",
+      "findings": "- Cough\n- Rales\n- Child\n- Chest discomfort\n- Sleep disturbance",
+      "options": [
+        "Pediatric Parainfluenza Virus Pneumonia",
+        "Asthmatic Pulmonary Eosinophilia",
+        "Pediatric Respiratory Syncytial Virus Pneumonia"
+      ],
+      "base": "A. Pediatric",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3833_1",
+      "ref": "C",
+      "findings": "- Fatigue\n- Reduced comprehension\n- Headache\n- Weakness",
+      "options": [
+        "Leukopenia",
+        "Hypercalcemia in the Elderly",
+        "Uremic Coma"
+      ],
+      "base": "C. U",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13528_2",
+      "ref": "A",
+      "findings": "- Bleeding\n- Bruising\n- Numbness\n- Pain increasing with activity",
+      "options": [
+        "Open Hand Trauma",
+        "Traumatic Wounds",
+        "Hand Tendon Injury"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14578_1",
+      "ref": "C",
+      "findings": "- nocturnal pain\n- swelling around the bone\n- reduced mobility of the affected limb\n- pathological fracture",
+      "options": [
+        "Pulpitis",
+        "Enuresis",
+        "Malignant Bone Tumor"
+      ],
+      "base": "C. M",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C. M",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_447_5",
+      "ref": "A",
+      "findings": "- Red eye\n- Photophobia\n- Eye pain\n- Decreased vision\n- Conjunctival sac secretions\n- Sensation of a foreign body in the eye\n- Swelling of the eyelids",
+      "options": [
+        "Scleritis",
+        "Intermediate Uveitis",
+        "Chronic Dacryoadenitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_293_4",
+      "ref": "A",
+      "findings": "- Pallor\n- Sensory Abnormalities\n- Cold skin around the affected area\n- Weak pulse near affected muscles\n- Tightness in muscles",
+      "options": [
+        "Muscle Contracture",
+        "Myositis-Osseous Renal Syndrome",
+        "Anomalous Origin of the Coronary Artery from the Pulmonary Artery (ACAPA)"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_18095_4",
+      "ref": "B",
+      "findings": "- Myalgia\n- Fatigue\n- Splenomegaly\n- Localized lymph node enlargement",
+      "options": [
+        "Alkaligenes Pneumonia",
+        "Lyme Disease",
+        "Sarcocystosis"
+      ],
+      "base": "B. Lyme",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_22574_3",
+      "ref": "C",
+      "findings": "- Burning pain\n- paroxysmal abdominal pain\n- Child\n- hemiparesis\n- renal failure",
+      "options": [
+        "Secondary Dysmenorrhea",
+        "Pediatric Ascariasis Intestinal Obstruction",
+        "Pediatric Fabry Disease"
+      ],
+      "base": "B. Pediatric",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_9768_3",
+      "ref": "A",
+      "findings": "- Abnormal sweating\n- Hypotension\n- Speech disorder\n- Nocturia",
+      "options": [
+        "Primary Orthostatic Hypotension",
+        "Left Atrial Rhythm",
+        "Anaphylactic Shock"
+      ],
+      "base": "A. Primary",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_20531_2",
+      "ref": "A",
+      "findings": "- Gonadal dysgenesis\n- Child\n- Neck webbing\n- Low-set ears\n- Sparse hair",
+      "options": [
+        "Turner Syndrome",
+        "Fibrous Histiocytoma",
+        "Pediatric Iodine Deficiency Disorder"
+      ],
+      "base": "A. Turner",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2788_2",
+      "ref": "B",
+      "findings": "- Depression\n- Fatigue\n- Anorexia\n- Premature menopause",
+      "options": [
+        "Pediatric Obsessive-Compulsive Disorder (OCD)",
+        "Celiac Disease",
+        "Postpartum Discomfort due to Qi Stagnation"
+      ],
+      "base": "C. Post",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_10656_4",
+      "ref": "B",
+      "findings": "- pleural effusion\n- enlargement of supraclavicular lymph nodes\n- Female\n- cough\n- difficulty breathing\n- chest pain",
+      "options": [
+        "Pseudomonas cepacia pneumonia",
+        "Occult Breast Cancer",
+        "Paraspinal abscess of thoracic tuberculosis penetrating into the thoracic cavity"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_4154_2",
+      "ref": "B",
+      "findings": "- Irregular vaginal bleeding\n- Postmenopausal\n- Unexplained weight loss\n- Pain during intercourse\n- Pelvic pain",
+      "options": [
+        "Choriocarcinoma",
+        "Postmenopausal Cervical Cancer",
+        "Vaginal Cancer"
+      ],
+      "base": "B. Post",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B. Post",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_174_3",
+      "ref": "A",
+      "findings": "- Fever\n- Dyspnea\n- Purulent sputum\n- Anemia",
+      "options": [
+        "Pulmonary Cryptococcosis",
+        "Severe Nosocomial Pneumonia",
+        "Pasteurella Pneumonia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_18130_5",
+      "ref": "C",
+      "findings": "- Oral mucosa presents with white or grayish-white homogenous patches\n- Peak-like protrusions\n- Raised lesions with uneven surfaces\n- Palpably slightly hard\n- Difficulty in moving the jaw\n- Loss of appetite\n- Noticeable weight loss",
+      "options": [
+        "Oral Cancer",
+        "Oral Thrush",
+        "Oral Leukoplakia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_770_4",
+      "ref": "B",
+      "findings": "- Respiratory distress\n- Coughing\n- Fatigue\n- Light-headedness\n- Heat intolerance",
+      "options": [
+        "Colchamine Poisoning",
+        "Pure Autonomic Failure",
+        "Ectopic Esophageal Tissue"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13655_1",
+      "ref": "C",
+      "findings": "- Toothache\n- Fever\n- Malaise\n- Tooth mobility",
+      "options": [
+        "Dental Implant",
+        "Pulp Calcification",
+        "Actinomycosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8570_2",
+      "ref": "C",
+      "findings": "- Pallor\n- Anxiety\n- Rapid breathing\n- Thirst",
+      "options": [
+        "Anemia due to Malignant Tumors",
+        "Sheehan's Syndrome",
+        "Hemorrhagic Shock"
+      ],
+      "base": "The clinical findings",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_1353_3",
+      "ref": "A",
+      "findings": "- Acute renal failure\n- Hematuria\n- leukocytosis\n- tubular urine",
+      "options": [
+        "Infectious Acute Tubulointerstitial Nephritis",
+        "Urethral Calculus",
+        "Leukemia Renal Damage"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_915_3",
+      "ref": "A",
+      "findings": "- Amenorrhea\n- Irregular vaginal bleeding\n- Low back pain\n- Mild cramping",
+      "options": [
+        "Persistent Tubal Pregnancy",
+        "Gynecological Tumors",
+        "Ectopic Tubal Pregnancy Miscarriage"
+      ],
+      "base": "C. E",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12723_3",
+      "ref": "B",
+      "findings": "- Headache\n- Menstrual irregularities\n- Dizziness\n- Irritability",
+      "options": [
+        "Asherman's Syndrome",
+        "Menstrual Migraine",
+        "Takayasu Arteritis"
+      ],
+      "base": "B. Men",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_965_5",
+      "ref": "B",
+      "findings": "- Diarrhea\n- Mucous stools\n- Fever\n- Abdominal pain\n- Nausea\n- Decreased appetite\n- Vomiting",
+      "options": [
+        "Campylobacter Enteritis",
+        "Isosporiasis",
+        "Shigellosis"
+      ],
+      "base": "C. Sh",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_12042_4",
+      "ref": "C",
+      "findings": "- Chest Pain\n- Swelling in chest area\n- Night sweats\n- Appetite loss\n- Pain localized at the tumor site",
+      "options": [
+        "Tracheal Disease",
+        "Pulmonary Hernia",
+        "Chest Wall Bone Tumor"
+      ],
+      "base": "C. Chest",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C  \nThe",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13032_3",
+      "ref": "C",
+      "findings": "- Progressive darkening of the skin\n- Corneal opacity\n- Child\n- Hearing loss\n- Photophobia",
+      "options": [
+        "Xerophthalmia",
+        "Persistent Hyperplastic Primary Vitreous (PHPV)",
+        "Xeroderma Pigmentosum"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_7534_3",
+      "ref": "C",
+      "findings": "- Swelling\n- Pain\n- Joint tenderness\n- Increased warmth around the knee\n- Difficulty squatting or climbing stairs",
+      "options": [
+        "Patellar Dislocation",
+        "Chronic Traumatic Bursitis",
+        "Meniscal Injury"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14006_2",
+      "ref": "B",
+      "findings": "- Failure to gain weight\n- Newborn\n- Indigestion\n- Decreased appetite\n- Nausea",
+      "options": [
+        "Food Stagnation",
+        "Neonatal Hepatitis",
+        "Congenital Anorectal Malformations"
+      ],
+      "base": "A. Food",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_8523_1",
+      "ref": "C",
+      "findings": "- Severe pharyngeal pain\n- Night sweats\n- Weight loss\n- Fatigue",
+      "options": [
+        "Elongated uvula",
+        "Pharyngoconjunctival Fever",
+        "Pharyngeal Tuberculosis"
+      ],
+      "base": "B. Ph",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B. Ph",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_15509_1",
+      "ref": "B",
+      "findings": "- Polyarthritis\n- Fatigue\n- Mild fever\n- Raynaud's phenomenon",
+      "options": [
+        "Lupus Nephritis",
+        "Connective Tissue Disease",
+        "Multicentric Reticulohistiocytosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Connect",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_10146_3",
+      "ref": "A",
+      "findings": "- Pain on one side of the lower back\n- Increased pain when turning over\n- Audible clicking sound from the sacroiliac joint\n- Sensation of warmth at the site of pain",
+      "options": [
+        "Sacroiliac Joint Sprain or Subluxation",
+        "Gender Reassignment Surgery",
+        "Chronic Strain-Related Low Back Pain"
+      ],
+      "base": "A. Sac",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6620_3",
+      "ref": "B",
+      "findings": "- Mildly blurred vision\n- Temporary blackout\n- Pulsatile tinnitus\n- Visual obscurations\n- Peripheral field loss",
+      "options": [
+        "Primary Angle-Closure Glaucoma",
+        "Optic Disc Edema",
+        "Toxic Cataract"
+      ],
+      "base": "A. Primary",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_1672_5",
+      "ref": "A",
+      "findings": "- Back pain\n- Microscopic hematuria\n- Percussive pain in the renal area\n- Fatigue\n- Lack of appetite\n- Increased urinary frequency\n- Low-grade fever",
+      "options": [
+        "Simple Renal Cyst",
+        "Listeriosis",
+        "Caliceal diverticulum"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**B**",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_1233_5",
+      "ref": "C",
+      "findings": "- Blurry vision\n- Double vision\n- Visual impairment\n- Seeing halos around lights\n- Excessive blinking\n- Squinting\n- Difficulty adapting to dark environments",
+      "options": [
+        "Macular Hole-Associated Retinal Detachment",
+        "Intraocular Metastatic Tumor",
+        "Astigmatism"
+      ],
+      "base": "C. Ast",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8517_1",
+      "ref": "B",
+      "findings": "- Reduced learning ability\n- Child\n- Difficulty walking\n- Joint stiffness\n- Frequent falls",
+      "options": [
+        "Intellectual Developmental Disorder",
+        "Spastic Diplegia Cerebral Palsy",
+        "Macrogyria"
+      ],
+      "base": "B. Sp",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_9757_5",
+      "ref": "A",
+      "findings": "- Back pain\n- Hematuria\n- Frequent urination\n- Painful urination\n- Urinary urgency\n- Chills\n- Pelvic pain",
+      "options": [
+        "Calyceal Hydronephrosis",
+        "Congenital Renal Malformation",
+        "Contralateral Hydronephrosis due to Renal Tuberculosis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_11275_3",
+      "ref": "A",
+      "findings": "- Visual impairment\n- Purulent discharge\n- Eye swelling\n- Reduced eye movement\n- Increased tear production",
+      "options": [
+        "Pseudomonas Aeruginosa Keratitis",
+        "Fungal Keratitis",
+        "Purulent Keratitis"
+      ],
+      "base": "C. Pur",
+      "base_choice": "C",
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_9322_2",
+      "ref": "C",
+      "findings": "- Spontaneous paroxysmal pain\n- Radiating pain that cannot be localized\n- Sensitivity to temperature changes\n- Severe toothache causing sleep difficulties",
+      "options": [
+        "Labyrinthitis",
+        "Herpes Simplex",
+        "Pulpitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C. P",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_2659_2",
+      "ref": "C",
+      "findings": "- Limb numbness\n- Blurred vision\n- Cognitive difficulties\n- Mood swings",
+      "options": [
+        "Polyneuropathy",
+        "Intraspinal Meningioma",
+        "Diffuse Sclerosis"
+      ],
+      "base": "C. Diff",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_11924_2",
+      "ref": "C",
+      "findings": "- Urinary incontinence\n- Abdominal mass\n- Distention pain\n- Bladder irritation",
+      "options": [
+        "Cough-induced Urinary Incontinence in Women",
+        "Duplication of the Urethra",
+        "Ectopic Kidney"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_17448_4",
+      "ref": "C",
+      "findings": "- Pain on the lateral side of the elbow joint\n- Multiple tender points\n- Numbness in the fingers\n- Increased pain during the night\n- Reduced range of motion in the elbow",
+      "options": [
+        "Cubital Tunnel Syndrome",
+        "Posterior Interosseous Nerve Syndrome",
+        "Lateral Epicondylitis of the Humerus"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**C**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_4185_2",
+      "ref": "B",
+      "findings": "- Fatigue\n- Female\n- Breast tenderness\n- Mood swings\n- Cravings for certain foods",
+      "options": [
+        "Sperm Abnormality",
+        "Pregnancy",
+        "Polymyositis"
+      ],
+      "base": "B. Pregnancy",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B. Pregnancy",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_21706_2",
+      "ref": "A",
+      "findings": "- Frequent urination\n- Nighttime urination\n- Weak urine stream\n- Straining to urinate",
+      "options": [
+        "Urinary retention",
+        "Bladder Diverticulum",
+        "Prostatic Cyst"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B. Bl",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_14637_5",
+      "ref": "B",
+      "findings": "- Abnormal breathing\n- Chest pain\n- Fever\n- Dysphagia\n- Dyspnea\n- Neck pain\n- Hoarseness",
+      "options": [
+        "Diffuse Malignant Mesothelioma",
+        "Esophageal Rupture",
+        "Paragonimiasis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6744_1",
+      "ref": "B",
+      "findings": "- Biliary colic\n- Female\n- Nausea\n- Vomiting\n- Fatty food intolerance",
+      "options": [
+        "Cholangiolithiasis and Cholangitis",
+        "Biliary Dyskinesia",
+        "Mirizzi Syndrome"
+      ],
+      "base": "B. B",
+      "base_choice": "B",
+      "base_reward": 1.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_8134_3",
+      "ref": "C",
+      "findings": "- Bedwetting\n- Urinary incontinence\n- Child\n- Nocturia\n- Burning or pain during urination",
+      "options": [
+        "Pediatric Enuresis",
+        "Chronic Reflux Nephropathy",
+        "Pediatric Neurogenic Bladder"
+      ],
+      "base": "A. Pediatric",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_3368_4",
+      "ref": "A",
+      "findings": "- Lymphadenopathy\n- Thrombocytopenia\n- Child\n- Easy bruising\n- Bleeding gums\n- Fever",
+      "options": [
+        "Pediatric Autoimmune Lymphoproliferative Syndrome (ALPS)",
+        "Pediatric X-linked Hyper-IgM Syndrome",
+        "Wiskott-Aldrich Syndrome in Children"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_10113_3",
+      "ref": "C",
+      "findings": "- Reddish face\n- High fever\n- Joint pain\n- Swelling of the ankles\n- Insomnia",
+      "options": [
+        "Pharyngoconjunctival Fever",
+        "Acute Icterus",
+        "Erysipelas"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_3289_5",
+      "ref": "A",
+      "findings": "- Abdominal pain\n- Diarrhea\n- Bloating\n- Lack of energy\n- Weakness in the limbs\n- Unsatisfactory defecation",
+      "options": [
+        "Chronic Colitis",
+        "Irritable Bowel Syndrome in the Elderly",
+        "Chronic Bacterial Dysentery"
+      ],
+      "base": "B. Irr",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_1840_3",
+      "ref": "B",
+      "findings": "- Photophobia\n- Conjunctival congestion\n- Eye redness\n- Tearing\n- Sensitivity to light",
+      "options": [
+        "Staphylococcus Aureus Marginal Keratitis",
+        "Hereditary Benign Intraepithelial Dyskeratosis",
+        "Blepharitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_3841_2",
+      "ref": "C",
+      "findings": "- Pustules\n- Sensitivity to sunlight\n- Slight pain upon pressure\n- Facial swelling",
+      "options": [
+        "Pityrosporum Folliculitis",
+        "Acrodermatitis Continua",
+        "Lupus Miliaris Disseminatus Faciei (LMDF)"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_4886_2",
+      "ref": "C",
+      "findings": "- Abnormally large breast volume\n- Female\n- Neck pain\n- Shoulder grooving from bra straps\n- Posture problems",
+      "options": [
+        "Macrosomia",
+        "Male Breast Cancer",
+        "Macromastia"
+      ],
+      "base": "C. Mac",
+      "base_choice": "C",
+      "base_reward": 1.0,
+      "adapter": "C. Mac",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_15253_4",
+      "ref": "A",
+      "findings": "- Cryptorchidism\n- Absence of pubic hair\n- Adolescent/Adult\n- Male\n- Erectile dysfunction\n- Anxiety\n- Hot flashes",
+      "options": [
+        "Familial Kallmann Syndrome",
+        "Pediatric Androgen Insensitivity Syndrome",
+        "Anorchia"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A\n\n**",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_7885_5",
+      "ref": "B",
+      "findings": "- Severe pain\n- Photophobia\n- Tearing\n- Decreased vision\n- Eye redness\n- Eyelid edema\n- Foreign body sensation",
+      "options": [
+        "Acute Hemorrhagic Conjunctivitis",
+        "Moth-eaten Keratitis Ulcer",
+        "Pseudomonas aeruginosa keratitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "**A**",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_11052_1",
+      "ref": "A",
+      "findings": "- Jaundice\n- Fatigue\n- Weight loss\n- Increased appetite",
+      "options": [
+        "Hyperthyroid Liver Disease",
+        "Gilbert's Syndrome",
+        "Iatrogenic Bile Duct Injury"
+      ],
+      "base": "A. Hyper",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_18057_5",
+      "ref": "B",
+      "findings": "- Abdominal pain\n- Diarrhea\n- Vomiting\n- Nausea\n- Shock\n- Cold limbs\n- Pallor",
+      "options": [
+        "Retroperitoneal Fluid Infiltration Disease",
+        "Food Poisoning",
+        "Klebsiella Pneumonia"
+      ],
+      "base": "A. Retro",
+      "base_choice": "A",
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_2977_4",
+      "ref": "A",
+      "findings": "- Redness\n- Pain\n- Nasal discharge\n- Crepitus on palpation\n- Deformity of the nasal bridge",
+      "options": [
+        "Nasal Trauma",
+        "Meibomian Cyst",
+        "Vestibulitis nasi"
+      ],
+      "base": "A\n\n**",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_16232_1",
+      "ref": "C",
+      "findings": "- Swelling\n- Difficulty breathing\n- Fast heart rate\n- Anxiety",
+      "options": [
+        "Dedifferentiated Chondrosarcoma",
+        "Urticaria and Angioedema",
+        "Thoracic Trauma"
+      ],
+      "base": "B. U",
+      "base_choice": "B",
+      "base_reward": 0.0,
+      "adapter": "B",
+      "adapter_choice": "B",
+      "adapter_reward": 0.0
+    },
+    {
+      "id": "en_7604_2",
+      "ref": "A",
+      "findings": "- Pale yellow nipple discharge\n- Occasional discomfort\n- Breast heaviness\n- Breast swelling",
+      "options": [
+        "Fibrocystic Breast Condition",
+        "Early Stage Breast Cancer",
+        "Intraductal Papilloma of the Breast"
+      ],
+      "base": "A. Fib",
+      "base_choice": "A",
+      "base_reward": 1.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_3292_2",
+      "ref": "C",
+      "findings": "- Conjunctival edema\n- Eye pain\n- Tearing\n- Blurred vision",
+      "options": [
+        "Aniridia",
+        "Pterygium Involvement",
+        "Syphilitic Keratitis"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_13281_4",
+      "ref": "A",
+      "findings": "- Keratitis\n- Crusting\n- Child\n- High fever\n- Seizures",
+      "options": [
+        "Stevens-Johnson Syndrome in Children",
+        "Basal Cell Carcinoma",
+        "Pseudopelade"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "A",
+      "adapter_choice": "A",
+      "adapter_reward": 1.0
+    },
+    {
+      "id": "en_6953_2",
+      "ref": "B",
+      "findings": "- Difficulty urinating\n- Pain during intercourse\n- Constipation\n- Pelvic pain",
+      "options": [
+        "Vaginal Squamous Cell Carcinoma",
+        "Cervical Leiomyoma",
+        "Prostate Cancer"
+      ],
+      "base": "The most likely",
+      "base_choice": null,
+      "base_reward": 0.0,
+      "adapter": "C\n\n**",
+      "adapter_choice": "C",
+      "adapter_reward": 0.0
+    }
+  ]
+}

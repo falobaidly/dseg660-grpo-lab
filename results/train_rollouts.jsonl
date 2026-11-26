@@ -1,0 +1,1600 @@
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 1, "case_id": "en_13280_5", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "C. Nec", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 2, "case_id": "en_15229_1", "ref": "B", "completion": "C. Nec", "reward": 0.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 3, "case_id": "en_5857_5", "ref": "C", "completion": "C. Sup", "reward": 1.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 4, "case_id": "en_7157_4", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 5, "case_id": "en_20302_1", "ref": "C", "completion": "C. Coal", "reward": 1.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 6, "case_id": "en_5427_2", "ref": "B", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "Given the clinical", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "Given the clinical", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "Given the clinical", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 7, "case_id": "en_9678_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "B. Primary", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "B. Primary", "reward": 0.0}
+{"rollout_batch": 8, "case_id": "en_9491_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 9, "case_id": "en_4270_2", "ref": "B", "completion": "C. Cong", "reward": 0.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "A. Orb", "reward": 1.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "A. Orb", "reward": 1.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "A. Orb", "reward": 1.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "A. Orb", "reward": 1.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "A. Orb", "reward": 1.0}
+{"rollout_batch": 10, "case_id": "en_7764_5", "ref": "A", "completion": "A. Orb", "reward": 1.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "A. Post", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 11, "case_id": "en_15736_3", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "C. Angular", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "C. Angular", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "C. Angular", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "C. Angular", "reward": 0.0}
+{"rollout_batch": 12, "case_id": "en_14108_5", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 13, "case_id": "en_17461_2", "ref": "B", "completion": "The clinical findings", "reward": 0.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "C. Chronic", "reward": 1.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "Given the clinical", "reward": 0.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "C. Chronic", "reward": 1.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "C. Chronic", "reward": 1.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "C. Chronic", "reward": 1.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "C. Chronic", "reward": 1.0}
+{"rollout_batch": 14, "case_id": "en_8248_2", "ref": "C", "completion": "C. Chronic", "reward": 1.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 15, "case_id": "en_19832_2", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 16, "case_id": "en_10044_5", "ref": "A", "completion": "A. Non", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 17, "case_id": "en_13185_5", "ref": "B", "completion": "B. Sand", "reward": 1.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "A. Id", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "A. Id", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "A. Id", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "A. Id", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "A. Id", "reward": 0.0}
+{"rollout_batch": 18, "case_id": "en_17193_4", "ref": "C", "completion": "A. Id", "reward": 0.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 19, "case_id": "en_12248_1", "ref": "B", "completion": "B. Inter", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 20, "case_id": "en_13853_5", "ref": "A", "completion": "A. Neon", "reward": 1.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "C. Bl", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "C. Bl", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "C. Bl", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "C. Bl", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "C. Bl", "reward": 0.0}
+{"rollout_batch": 21, "case_id": "en_15250_2", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "C. Neon", "reward": 1.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "**C.", "reward": 1.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "C. Neon", "reward": 1.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "C. Neon", "reward": 1.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "C. Neon", "reward": 1.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "C. Neon", "reward": 1.0}
+{"rollout_batch": 22, "case_id": "en_122_1", "ref": "C", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "Given the clinical", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "Based on the", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "B. Gran", "reward": 0.0}
+{"rollout_batch": 23, "case_id": "en_4677_4", "ref": "A", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 24, "case_id": "en_7314_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "B. Fem", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "B. Fem", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "B. Fem", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "C. Knee", "reward": 0.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "B. Fem", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "B. Fem", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "B. Fem", "reward": 1.0}
+{"rollout_batch": 25, "case_id": "en_22801_3", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A. Ch", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A. Ch", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A. Ch", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A. Ch", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A. Ch", "reward": 0.0}
+{"rollout_batch": 26, "case_id": "en_17617_1", "ref": "C", "completion": "A. Ch", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "A. Ant", "reward": 1.0}
+{"rollout_batch": 27, "case_id": "en_19980_3", "ref": "A", "completion": "B. Pediatric", "reward": 0.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C  \n**", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C. Sp", "reward": 1.0}
+{"rollout_batch": 28, "case_id": "en_6317_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 29, "case_id": "en_1499_3", "ref": "C", "completion": "C. Ch", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 30, "case_id": "en_14362_5", "ref": "B", "completion": "B. N", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 31, "case_id": "en_3250_2", "ref": "A", "completion": "A. Primary", "reward": 1.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "B. Rad", "reward": 1.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "**A**", "reward": 0.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "The most likely", "reward": 0.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "**C.", "reward": 0.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "B. Rad", "reward": 1.0}
+{"rollout_batch": 32, "case_id": "en_20353_1", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A. O", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A. O", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 33, "case_id": "en_2112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 34, "case_id": "en_19343_4", "ref": "B", "completion": "B. Ab", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C  \n**", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C. Hep", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 35, "case_id": "en_4525_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A. Anal", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 36, "case_id": "en_21531_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 37, "case_id": "en_22952_2", "ref": "C", "completion": "C. N", "reward": 1.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A. Neon", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A. Neon", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A. Neon", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A. Neon", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A. Neon", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A. Neon", "reward": 0.0}
+{"rollout_batch": 38, "case_id": "en_14341_4", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 39, "case_id": "en_10691_5", "ref": "B", "completion": "B. O", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 40, "case_id": "en_134_4", "ref": "B", "completion": "B. Ac", "reward": 1.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 41, "case_id": "en_12083_3", "ref": "A", "completion": "B. S", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A. Orb", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A. Orb", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A. Orb", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A. Orb", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A. Orb", "reward": 0.0}
+{"rollout_batch": 42, "case_id": "en_13418_1", "ref": "B", "completion": "A. Orb", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 43, "case_id": "en_10181_5", "ref": "C", "completion": "**B.", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 44, "case_id": "en_13422_1", "ref": "B", "completion": "A. Derm", "reward": 0.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 45, "case_id": "en_9075_5", "ref": "B", "completion": "B. Ga", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C. Ad", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C. Ad", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 46, "case_id": "en_22839_4", "ref": "C", "completion": "C. Ad", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 47, "case_id": "en_11240_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 48, "case_id": "en_15088_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C. Internal", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 49, "case_id": "en_905_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 50, "case_id": "en_5215_3", "ref": "B", "completion": "B. P", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 51, "case_id": "en_16313_5", "ref": "B", "completion": "B. Hem", "reward": 1.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "A. V", "reward": 0.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "A. V", "reward": 0.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "C. Bac", "reward": 1.0}
+{"rollout_batch": 52, "case_id": "en_12414_2", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "C. Di", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "C. Di", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "C. Di", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "C. Di", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "C. Di", "reward": 0.0}
+{"rollout_batch": 53, "case_id": "en_4952_2", "ref": "B", "completion": "C. Di", "reward": 0.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 54, "case_id": "en_17175_1", "ref": "B", "completion": "B. Anal", "reward": 1.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 55, "case_id": "en_9247_2", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 56, "case_id": "en_2983_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B  \n**", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 57, "case_id": "en_13743_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "B. Vit", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "B. Vit", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "B. Vit", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "B. Vit", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "B. Vit", "reward": 0.0}
+{"rollout_batch": 58, "case_id": "en_10217_1", "ref": "A", "completion": "C. Vit", "reward": 0.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "C. Par", "reward": 1.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "A. Hyper", "reward": 0.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "C. Par", "reward": 1.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "C. Par", "reward": 1.0}
+{"rollout_batch": 59, "case_id": "en_4837_5", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 60, "case_id": "en_9164_2", "ref": "B", "completion": "B. C", "reward": 0.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 61, "case_id": "en_4858_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 62, "case_id": "en_1544_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 63, "case_id": "en_4840_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 64, "case_id": "en_1943_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 65, "case_id": "en_3268_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 66, "case_id": "en_1645_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 67, "case_id": "en_1973_5", "ref": "A", "completion": "C. Col", "reward": 0.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "C. Vent", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 68, "case_id": "en_17779_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "B  \n**", "reward": 0.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "B  \n**", "reward": 0.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 69, "case_id": "en_16912_3", "ref": "A", "completion": "B  \n**", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 70, "case_id": "en_10421_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "B. Mand", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "B. Mand", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "B. Mand", "reward": 1.0}
+{"rollout_batch": 71, "case_id": "en_14083_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 72, "case_id": "en_10603_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C. Nail", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C. Nail", "reward": 1.0}
+{"rollout_batch": 73, "case_id": "en_15193_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 74, "case_id": "en_17976_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B, C", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B\n\n**", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 75, "case_id": "en_17298_3", "ref": "C", "completion": "B\n\n**", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 76, "case_id": "en_9741_3", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 77, "case_id": "en_12006_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 78, "case_id": "en_14690_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 79, "case_id": "en_16268_4", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C. An", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C. An", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C. An", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C. An", "reward": 0.0}
+{"rollout_batch": 80, "case_id": "en_2388_2", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 81, "case_id": "en_4701_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 82, "case_id": "en_16362_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 83, "case_id": "en_20137_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 84, "case_id": "en_8413_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 85, "case_id": "en_6811_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "**A**", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 86, "case_id": "en_8330_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 87, "case_id": "en_11235_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 88, "case_id": "en_22819_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 89, "case_id": "en_319_3", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 90, "case_id": "en_16751_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C  \nThe", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C  \n**", "reward": 1.0}
+{"rollout_batch": 91, "case_id": "en_17828_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 92, "case_id": "en_7981_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 93, "case_id": "en_2040_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 94, "case_id": "en_163_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 95, "case_id": "en_10654_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 96, "case_id": "en_12036_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 97, "case_id": "en_22976_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 98, "case_id": "en_16900_3", "ref": "A", "completion": "**C**", "reward": 0.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 99, "case_id": "en_22430_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 100, "case_id": "en_3414_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 101, "case_id": "en_20450_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 102, "case_id": "en_18698_3", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 103, "case_id": "en_3704_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 104, "case_id": "en_1858_3", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 105, "case_id": "en_8492_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 106, "case_id": "en_15843_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 107, "case_id": "en_10361_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 108, "case_id": "en_21094_2", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 109, "case_id": "en_5563_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 110, "case_id": "en_10625_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 111, "case_id": "en_18881_2", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 112, "case_id": "en_22657_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C  \n**", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C  \n**", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C  \nC", "reward": 0.0}
+{"rollout_batch": 113, "case_id": "en_5808_5", "ref": "B", "completion": "C  \n**", "reward": 0.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 114, "case_id": "en_15935_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 115, "case_id": "en_12045_1", "ref": "C", "completion": "C. Extras", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 116, "case_id": "en_15187_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 117, "case_id": "en_198_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 118, "case_id": "en_18606_1", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 119, "case_id": "en_2836_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 120, "case_id": "en_19008_4", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 121, "case_id": "en_3385_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B  \n\n**", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 122, "case_id": "en_22772_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 123, "case_id": "en_18737_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 124, "case_id": "en_12273_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 125, "case_id": "en_10390_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 126, "case_id": "en_14135_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 127, "case_id": "en_18975_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 128, "case_id": "en_20222_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 129, "case_id": "en_4190_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 130, "case_id": "en_10989_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 131, "case_id": "en_778_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 132, "case_id": "en_4962_5", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 133, "case_id": "en_9210_4", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 134, "case_id": "en_20037_3", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 135, "case_id": "en_8733_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 136, "case_id": "en_3302_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 137, "case_id": "en_22041_5", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 138, "case_id": "en_14383_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 139, "case_id": "en_1725_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "**A**", "reward": 1.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "**A**", "reward": 1.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 140, "case_id": "en_450_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 141, "case_id": "en_4121_2", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 142, "case_id": "en_6048_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 143, "case_id": "en_15519_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 144, "case_id": "en_13677_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 145, "case_id": "en_5157_2", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 146, "case_id": "en_294_2", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 147, "case_id": "en_7093_4", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 148, "case_id": "en_1610_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 149, "case_id": "en_6569_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 150, "case_id": "en_4180_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 151, "case_id": "en_4173_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 152, "case_id": "en_7649_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 153, "case_id": "en_10815_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B. F", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B. F", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B. F", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B. F", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B. F", "reward": 1.0}
+{"rollout_batch": 154, "case_id": "en_15820_4", "ref": "B", "completion": "B. F", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 155, "case_id": "en_23516_5", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "B  \nC", "reward": 0.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 156, "case_id": "en_21373_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 157, "case_id": "en_21557_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 158, "case_id": "en_1444_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C. Sed", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 159, "case_id": "en_5079_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 160, "case_id": "en_10367_3", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 161, "case_id": "en_18121_3", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 162, "case_id": "en_12867_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 163, "case_id": "en_15261_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 164, "case_id": "en_9882_1", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 165, "case_id": "en_23777_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 166, "case_id": "en_15119_2", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 167, "case_id": "en_7798_1", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 168, "case_id": "en_6114_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 169, "case_id": "en_8972_4", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B  \n**", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B. Ple", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B. Ple", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B. Ple", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B. Ple", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B. Ple", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B  \nC", "reward": 0.0}
+{"rollout_batch": 170, "case_id": "en_11370_3", "ref": "A", "completion": "B. Ple", "reward": 0.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 171, "case_id": "en_5099_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "**C**", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "**B**", "reward": 0.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 172, "case_id": "en_12346_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "B", "reward": 0.0}
+{"rollout_batch": 173, "case_id": "en_2616_5", "ref": "A", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 174, "case_id": "en_23015_1", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 175, "case_id": "en_11735_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 176, "case_id": "en_14471_3", "ref": "B", "completion": "C", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 177, "case_id": "en_20419_1", "ref": "C", "completion": "B", "reward": 0.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 178, "case_id": "en_884_3", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "C", "reward": 0.0}
+{"rollout_batch": 179, "case_id": "en_4112_1", "ref": "A", "completion": "A\n\n**", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 180, "case_id": "en_268_4", "ref": "A", "completion": "A", "reward": 1.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "**A**", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 181, "case_id": "en_14809_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 182, "case_id": "en_802_3", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C  \n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 183, "case_id": "en_12066_4", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "**A**", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 184, "case_id": "en_10111_5", "ref": "B", "completion": "**A**", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "B. Rad", "reward": 1.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 185, "case_id": "en_15986_5", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 186, "case_id": "en_1219_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "**A**", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "A", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 187, "case_id": "en_17783_4", "ref": "B", "completion": "**A**", "reward": 0.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "B. Sol", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "B  \n**", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "**B**", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "B. Sol", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "**B.", "reward": 1.0}
+{"rollout_batch": 188, "case_id": "en_13612_3", "ref": "B", "completion": "B. Sol", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 189, "case_id": "en_4503_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 190, "case_id": "en_5244_4", "ref": "C", "completion": "B. To", "reward": 0.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B\n\n**", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B. Syn", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B. Syn", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B. Syn", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B. Syn", "reward": 1.0}
+{"rollout_batch": 191, "case_id": "en_16091_3", "ref": "B", "completion": "B. Syn", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 192, "case_id": "en_13698_5", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 193, "case_id": "en_640_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A\n\n**", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 194, "case_id": "en_1865_5", "ref": "C", "completion": "A", "reward": 0.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 195, "case_id": "en_3312_5", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C. G", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 196, "case_id": "en_5093_1", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 197, "case_id": "en_1985_2", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 198, "case_id": "en_1392_1", "ref": "B", "completion": "B", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C\n\n**", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 199, "case_id": "en_8624_2", "ref": "C", "completion": "C", "reward": 1.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}
+{"rollout_batch": 200, "case_id": "en_9662_3", "ref": "B", "completion": "C\n\n**", "reward": 0.0}

@@ -1,0 +1,26 @@
+category   completion                   ref  parsed  reward result
+correct    'A'                          A    A       1.0    PASS
+correct    'B.'                         B    B       1.0    PASS
+correct    '(C)'                        C    C       1.0    PASS
+correct    '**A**'                      A    A       1.0    PASS
+correct    'Answer: B'                  B    B       1.0    PASS
+correct    ' C\n'                       C    C       1.0    PASS
+correct    'A. Pneum'                   A    A       1.0    PASS
+correct    '<think>\n\n</think>\n\nB'   B    B       1.0    PASS
+incorrect  'B'                          A    B       0.0    PASS
+incorrect  'C.'                         A    C       0.0    PASS
+incorrect  'Answer: A'                  C    A       0.0    PASS
+malformed  ''                           A    None    0.0    PASS
+malformed  'The patient'                A    None    0.0    PASS
+malformed  'D'                          A    None    0.0    PASS
+malformed  'a'                          A    None    0.0    PASS
+malformed  'Answer'                     A    None    0.0    PASS
+malformed  'Pneumonia'                  A    None    0.0    PASS
+malformed  'AB'                         A    None    0.0    PASS
+malformed  None                         A    None    0.0    PASS
+ambiguous  'A or B'                     A    None    0.0    PASS
+ambiguous  'A, C'                       A    None    0.0    PASS
+ambiguous  'B/C'                        B    None    0.0    PASS
+ambiguous  'A (not B'                   A    None    0.0    PASS
+
+23/23 passed
