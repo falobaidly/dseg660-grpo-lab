@@ -1,6 +1,8 @@
 # GRPO Lab — Reward Design with CoD
 
 **Model:** `Qwen/Qwen3-1.7B` at revision `70d244cc86ccca08cf5af4e1e306ecf908b1ad5e` (non-thinking mode), Unsloth 4-bit LoRA, TRL GRPO.
+**Public repository (code, adapter, results, report):** https://github.com/falobaidly/dseg660-grpo-lab
+
 **Hardware:** a single Tesla T4 (Google Colab). **Seed:** 3407. Every number below comes from `results/*.json`, produced by `grpo_lab.py`.
 
 | | Result |
